@@ -1,0 +1,29 @@
+name: Albanian
+dictionaries:
+- for: terms
+  type: popup
+  url: https://en.glosbe.com/sq/en/###
+  active: true
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Albanian
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=sq&tl=en&text=###&op=translate
+  active: true
+- for: terms
+  type: embedded
+  url: https://sq.wiktionary.org/wiki/###
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=103&T1=###
+  active: true
+show_romanization: true
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: d.m.th.|khs.|mb.|ndajf.|pj.|sh.|vj.|Mr.|Mrs.|Dr.|[A-Z].|Vd.|Vds.
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑ
