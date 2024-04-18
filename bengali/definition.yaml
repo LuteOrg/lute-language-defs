@@ -1,0 +1,29 @@
+name: Bengali
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://www.shabdkosh.com/dictionary/english-bengali/###
+  active: true
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Bengali
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=bn&tl=en&text=###&op=translate
+  active: true
+- for: terms
+  type: embedded
+  url: https://bn.wiktionary.org/wiki/####%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE
+  active: true
+- for: terms
+  type: embedded
+  url: https://dsal.uchicago.edu/cgi-bin/app/bengali_query.py?qs=###&searchhws=yes&matchtype=default
+  active: true
+show_romanization: true
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?।॥
+split_sentence_exceptions: ড.|সা.|ক.|গ.|খ.|ও.|ঘ.|করে.|জন্য.|এ.|আ.|না.|করতে.|রা.|স.|হবে.|থেকে.|এবং.|এক.
+word_chars: \u0980-\u09FF
