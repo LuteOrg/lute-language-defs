@@ -1,0 +1,53 @@
+name: Bulgarian
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Bulgarian
+  active: true
+- for: terms
+  type: embedded
+  url: https://bg.wiktionary.org/wiki/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.linguee.com/english-bulgarian/search?source=bulgarian&query=###
+  active: false
+- for: terms
+  type: embedded
+  url: http://rechnik.info/###
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.dict.com/?t=bg&set=_bgen&w=###
+  active: false
+- for: terms
+  type: popup
+  url: https://tatoeba.org/en/sentences/search?from=bul&query=###&to=
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=2037&T1=###
+  active: true
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#bg/en/###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=bg&tl=en&text=###&op=translate
+  active: false
+- for: sentences
+  type: popup
+  url: https://translate.yandex.com/?source_lang=bg&target_lang=en&text=###
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.bing.com/translator/?from=bg&to=en&text=###
+  active: false
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: г.|ж.|и т.н.|изд.|мн.|ч.|мн. ч.|прен.|прил.|съчет.
+word_chars: А-Яа-яa-zA-ZЁёЪ̀ъ̀ЍѝXxИ́и́'-
