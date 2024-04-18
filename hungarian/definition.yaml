@@ -1,0 +1,78 @@
+name: Hungarian
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Hungarian
+  active: true
+- for: terms
+  type: embedded
+  url: https://hu.wiktionary.org/wiki/####Magyar
+  active: false
+- for: terms
+  type: popup
+  url: https://szotar.sztaki.hu/en/search?fromlang=hun&tolang=eng&searchWord=###&langcode=en&u=0&langprefix=en%2F&searchMode=WORD_PREFIX&viewMode=full&ignoreAccents=0
+  active: true
+- for: terms
+  type: popup
+  url: https://en.bab.la/dictionary/hungarian-english/###
+  active: false
+- for: terms
+  type: popup
+  url: https://en.glosbe.com/hu/en/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.linguee.com/english-hungarian/search?source=hungarian&query=###
+  active: false
+- for: terms
+  type: popup
+  url: https://tr-ex.me/translation/hungarian-english/###
+  active: false
+- for: terms
+  type: popup
+  url: https://tatoeba.org/en/sentences/search?from=hun&query=###&to=eng
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=121&T1=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=1121&T1=###
+  active: false
+- for: terms
+  type: embedded
+  url: https://cooljugator.com/hu/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.dict.com/Hungarian-English/###
+  active: false
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/en/translator#hu/en/###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=hu&tl=en&text=###&op=translate
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.reverso.net/text-translation#sl=hun&tl=eng&text=###
+  active: false
+- for: sentences
+  type: popup
+  url: https://translate.yandex.com/?source_lang=hu&target_lang=en&text=###
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.bing.com/translator/?from=hu&to=en&text=###
+  active: false
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: áll.|ált.|bek.|Bp.|Btk.|c.|cs.|dr.|Dr.|du.|e.|em.|évf.|f.|fej.|fszt.|gimn.|hsz.|i.
+  e.|i. m.|i. sz.|igh.|ill.|isk.|k.|kb.|ker.|kht.|kir.|korm.|köv.|Kr.|Kr. e.|Kr. u.|krt.|ktg.|ld.|l.|m.|Magyaro.|Mo.|max.|NB.|nyrt.|o.|p.|Pf.|pl.|prof.|Ptk.|pu.|rt.|stb.|sz.|szn.|Szt.|szül.|t.|tel.|ti.|tv.|u.|ui.|úm.|ún.|vs.|zrt.|
+word_chars: a-zA-ZÁáÉéÍíÓóÖöŐőÚúÜüŰű'
