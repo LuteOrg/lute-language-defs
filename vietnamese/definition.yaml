@@ -1,0 +1,29 @@
+name: Vietnamese
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Vietnamese
+  active: true
+- for: terms
+  type: embedded
+  url: https://vdict.com/###,2,0,0,html
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=vi&tl=en&text=###&op=translate
+  active: true
+- for: terms
+  type: embedded
+  url: https://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-V/###.html
+  active: true
+- for: terms
+  type: embedded
+  url: https://cooljugator.com/vi/###
+  active: true
+show_romanization: true
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: Ng.|BS.|Đ.|h.|Q.|q.|sg.|t.|T.|Th.
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳĀ-ɏḀ-ỿọể'
