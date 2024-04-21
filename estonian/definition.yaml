@@ -1,0 +1,73 @@
+name: Estonian
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Estonian
+  active: true
+- for: terms
+  type: embedded
+  url: https://et.wiktionary.org/wiki/###
+  active: false
+- for: terms
+  type: popup
+  url: https://en.glosbe.com/et/en/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.dict.com/inglise-eesti/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.eki.ee/dict/ies/index.cgi?Q=###&F=M&C06=en
+  active: false
+- for: terms
+  type: embedded
+  url: https://aare.pri.ee/dictionary.html?query=###&lang=ee&meth=part
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.eki.ee/dict/ekss/index.cgi?Q=###&F=M
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.linguee.com/english-estonian/search?source=estonian&query=###
+  active: false
+- for: terms
+  type: popup
+  url: https://tatoeba.org/en/sentences/search?from=est&query=###&to=eng
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=4178&T1=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://cooljugator.com/ee/###
+  active: false
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#et/en/###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=et&tl=en&text=###&op=translate&hl=en
+  active: false
+- for: sentences
+  type: popup
+  url: https://translate.yandex.com/?source_lang=et&target_lang=en&text=###
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.bing.com/translator/?from=et&to=en&text=###
+  active: false
+- for: sentences
+  type: popup
+  url: https://www.online-translator.com/translation/estonian-english?text=###
+  active: false
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: puhul.|toim.|A.|jne.|ilm.|J.|arv.|H.|lood.|K.|R.|jt.|N.|nn.|K.R.|E.|Mr.|P.|M.|kunst.|3.-4.
+word_chars: a-zA-ZŠšŽžÕõÄäÖöÜü'
