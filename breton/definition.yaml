@@ -1,0 +1,45 @@
+name: Breton
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Breton
+  active: true
+- for: terms
+  type: embedded
+  url: https://br.wiktionary.org/wiki/####Brezhoneg
+  active: false
+- for: terms
+  type: embedded
+  url: https://geriafurch.bzh/br/brfr/###
+  active: true
+- for: terms
+  type: embedded
+  url: http://www.devri.bzh/recherche/?q=###
+  active: false
+- for: terms
+  type: popup
+  url: https://fr.glosbe.com/br/fr/###
+  active: false
+- for: terms
+  type: popup
+  url: https://niverel.brezhoneg.bzh/fr/meurgorf/?page=1&term=###&search_type=me
+  active: false
+- for: terms
+  type: popup
+  url: https://tatoeba.org/en/sentences/search?from=bre&query=###&to=eng
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=130&T1=###
+  active: true
+- for: sentences
+  type: popup
+  url: example/###
+  active: true
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: all.|bed.|holl.|bras.|get.|mor.|su.|..|kg.|Su.|se.|mat.|cm.|ger.|ren.|m.|int.|fin.|Stad.|km.
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑ'
