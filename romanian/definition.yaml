@@ -1,0 +1,101 @@
+name: Romanian
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Romanian
+  active: true
+- for: terms
+  type: embedded
+  url: https://ro.wiktionary.org/wiki/####rom%C3%A2n%C4%83
+  active: false
+- for: terms
+  type: embedded
+  url: https://dexonline.ro/definitie/###
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.archeus.ro/lingvistica/CautareDex?query=###
+  active: false
+- for: terms
+  type: popup
+  url: https://hallo.ro/english-romanian-dictionary/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.wordreference.com/roen/###
+  active: false
+- for: terms
+  type: popup
+  url: https://en.glosbe.com/ro/en/###
+  active: false
+- for: terms
+  type: popup
+  url: https://en.bab.la/dictionary/romanian-english/###
+  active: false
+- for: terms
+  type: popup
+  url: https://dictionary.reverso.net/romanian-english/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://context.reverso.net/translation/romanian-english/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.linguee.com/english-romanian/search?source=romanian&query=###
+  active: false
+- for: terms
+  type: popup
+  url: https://tr-ex.me/translation/romanian-english/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=5&T1=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=1005&T1=###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=2005&T1=###
+  active: false
+- for: terms
+  type: embedded
+  url: https://cooljugator.com/ro/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.dict.com/?t=ro&set=_enro&w=###
+  active: false
+- for: terms
+  type: popup
+  url: https://tatoeba.org/en/sentences/search?from=ron&query=###&to=
+  active: false
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#ro/en/###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=ro&tl=en&text=###&op=translate&hl=en
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.reverso.net/text-translation#sl=rum&tl=eng&text=###
+  active: false
+- for: sentences
+  type: popup
+  url: https://translate.yandex.com/?source_lang=ro&target_lang=en&text=###
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.bing.com/translator/?from=ro&to=en&text=###
+  active: false
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥|ş=ș|ţ=ț|
+split_sentences: .!?
+split_sentence_exceptions: al.|ap.|bd.|bl.|cap.|dle.|Dle.|dvs.|Dvs.|dv.|Dv.|et.|etc.|fem.|jud.|lat.|loc.|masc.|nr.|pag.|Rom.|sc.|sec.|Sf.|str.|v.|vol.|
+word_chars: a-zA-ZĂăÂâÎîȘșȚțŞşŢţА-Яа-яЄєӁӂḐḑĬĭŬŭĬĭꙊꙋꙊ̆ꙋ̆ѢѣꙖꙗѤѥѦѧѪѫѮѯѰѱѲѳѴѵꙞꙟЏџ'
