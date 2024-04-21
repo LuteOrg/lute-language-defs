@@ -1,0 +1,82 @@
+name: Finnish
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Finnish
+  active: true
+- for: terms
+  type: embedded
+  url: https://fi.wiktionary.org/wiki/####Suomi
+  active: false
+- for: terms
+  type: embedded
+  url: https://dictionarypro.net/finnish-english/###
+  active: false
+- for: terms
+  type: popup
+  url: https://en.glosbe.com/fi/en/###
+  active: false
+- for: terms
+  type: popup
+  url: https://tr-ex.me/translation/finnish-english/suomi?search=###
+  active: false
+- for: terms
+  type: popup
+  url: https://en.bab.la/dictionary/finnish-english/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.linguee.com/finnish-english/translation/###.html
+  active: false
+- for: terms
+  type: popup
+  url: https://tatoeba.org/en/sentences/search?from=fin&query=###&to=eng
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/finnish/###
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=1010&T1=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://cooljugator.com/fi/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://cooljugator.com/fia/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://cooljugator.com/fin/###
+  active: false
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#fi/en/###
+  active: false
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=fi&tl=en&text=###&op=translate
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.yandex.com/?source_lang=fi&target_lang=en&text=###
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.bing.com/translator/?from=fi&to=en&text=###
+  active: false
+- for: sentences
+  type: popup
+  url: https://www.online-translator.com/translation/finnish-english?text=###
+  active: false
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: aik.|alk.|alv.|ao.|ap.|dipl.ins.|eaa.|eKr.|elok.|em.|engl.|ent.|erit.|esim.|heinäk.|helmik.|huhtik.|ip.|jaa.|jKr.|jne.|joht.|Joos.|jouluk.|k.|ka.|kans.ed.|Kesk.|kesäk.|ko.|kok.|Kork.
+  v.|ks.|kys.|l.|lat.|Laul. l.|lis.|lk.|lkm.|ll.|lokak.|lyh.|ma.|maalisk.|mahd.|marrask.|Matt.|miel.|milj.|mlk.|mon.|mrd.|myöh.|n.|nimim.|ns.|nyk.|oik.|ovh.|par.|pj.|pl.|ps.
+word_chars: a-zA-ZÅåÄäÖöŠšŽž'
