@@ -14,7 +14,7 @@ When the form pops up in the right-hand frame, a dictionary is loaded below.  Co
 Languages can have multiple dictionaries, configured in the "Languages" link on the homepage.  Each dictionary is shown as a small tab.  For this demo, English has been configured with two dictionaries.  The second dictionary will open a popup window.  If you have many dictionaries, the extra ones will be shown in a small list box next to the tabs.
 
 1.2 Images
-Lute can do a simple image search for terms.  Next to the Sentences tab is a small image button.  If you click on it, you'll see some happy elephants (if you clicked on elephant!).  If you click on one of the images shown in the list, that image is saved in your data/userimages folder.  When you hover over the word in the reading pane, that picture is included in the word hover.  Try adding an image for your elephant by clicking on the term, clicking the eye icon, and clicking a picture you like.  Then hover over your elephant.
+Lute can do a simple image search for terms.  Next to the Sentences tab is a small image button.  If you click on it, you'll see some happy elephants (if you clicked on elephant!).  If you click on one of the images shown in the list, that image is saved in your data/userimages folder.  When you hover over the word in the reading pane, that picture is included in the word hover.  Try adding an image for your elephant by clicking on the term, clicking the image icon, and clicking a picture you like.  Then hover over your elephant.
 Note: sometimes these images make _no sense_ -- it's using Bing image search, and it does the best it can with the limited context it has.
 To delete an image added to your term, click on it.  Its border will change to red.  Hit Delete or Backspace to delete it, and then save the term (you must save!).
 
@@ -33,7 +33,7 @@ The ">" link moves to the next page as well, without setting the unknown terms t
 Note: both of these links also mark the page as "Read", which Lute uses when it searches for references to terms you create.  There's more on this in the tutorial follow-up, which you should read after this tutorial.
 
 5. Keyboard shortcuts
-The small blue question mark in the header shows some keyboard shortcuts.
+The "hamburger menu" next to the Lute logo at the top right of the reading screen opens up a small menu of items, including a link to some keyboard shortcuts.  This section introduces a few of them.
 
 5.1 Updating Status
 If you've worked through the tutorial, you'll have noted that words are underlined in blue when you move the mouse over them.  You can quickly change the status of the current word by hitting 1, 2, 3, 4, 5, w (for Well-Known), or i (for Ignore).  Try hovering over the following words and hit the status buttons: apple, banana, cranberry, donut.
