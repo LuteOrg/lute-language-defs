@@ -1,0 +1,45 @@
+name: Azerbaijani
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Azerbaijani
+  active: true
+- for: terms
+  type: embedded
+  url: https://az.wiktionary.org/wiki/###
+  active: false
+- for: terms
+  type: popup
+  url: https://tatoeba.org/en/sentences/search?from=aze&query=###&to=
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=250&T1=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://cooljugator.com/az/###
+  active: false
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=gd&tl=en&text=###&op=translate
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.yandex.com/?source_lang=az&target_lang=en&text=###
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.bing.com/translator/?from=hy&to=en&text=###
+  active: false
+- for: sentences
+  type: popup
+  url: https://www.online-translator.com/translation/azerbaijani-english?text=###
+  active: false
+show_romanization: true
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: və i.a.|və s.|Mr.|Mrs.|Dr.|[A-Z].|Vd.|Vds.
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑğĞıİöÖüÜşŞçÇƏəƢƣЬьIiƵƶꞐꞑƟɵАаБбҸҹЧчДдЭэӘәФфҜҝҒғҺһХхЫыИиЖжКкГгЛлМмНнОоӨөПпРрСсШшТтУуҮүВвЙйЗзЕеЈј'
