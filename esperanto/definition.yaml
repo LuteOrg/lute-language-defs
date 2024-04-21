@@ -1,0 +1,29 @@
+name: Esperanto
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Esperanto
+  active: true
+- for: terms
+  type: embedded
+  url: https://eneo.dict.cc/?s=###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=eo&tl=en&text=###&op=translate
+  active: true
+- for: terms
+  type: embedded
+  url: https://vortaro.net?lute=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=4092&T1=###
+  active: true
+show_romanization: true
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥|ç=ĉ|û=ŭ|î=ĵ|Ç=Ĉ|Û=Ŭ|Î=Ĵ
+split_sentences: .!?
+split_sentence_exceptions: ekz.|ĉ.|bv.|atm.|a.t.m.|ptm.|p.t.m.|a.K.|Ak.|eld.|j.|jc.|k.c.|kp.|m.|m.m.|n.|n.b.|resp.
+word_chars: a-zA-ZĈĜĤĴŜŬĉĝĥĵŝŭ'
