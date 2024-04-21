@@ -1,0 +1,25 @@
+name: Tibetan
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://dictionary.christian-steinert.de/#%7B%22activeTerm%22%3A%22skad%22%2C%22lang%22%3A%22tib%22%2C%22inputLang%22%3A%22tib%22%2C%22currentListTerm%22%3A%22###%22%2C%22forceLeftSideVisible%22%3Afalse%2C%22offset%22%3A0%7D
+  active: true
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Tibetan
+  active: true
+- for: terms
+  type: embedded
+  url: https://rywiki.tsadra.org/index.php?search=###&title=Special%3ASearch&fulltext=1&ns0=1&ns250=1&ns252=1
+  active: true
+- for: sentences
+  type: popup
+  url: https://www.bing.com/translator/?from=bo&to=en&text=###
+  active: true
+show_romanization: true
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: །༎
+split_sentence_exceptions: '[A-Z].|ངས.|བློ་ཡུལ་དུ་མེད་པའི་བྱུར་པོ་ཆེ་ཞིག་བྱུང་འདུག.|མི་རྐྱང་ངས.|མེ་ཏོག་གི་དྲི་བསུང་རྒྱང་རིང་དུ་ཁ་བ།.|མེ་ཏོག་ལྟ་བུའི་ཕྲུ་གུ་དག་འོད་ཟེར་གྱི་གཤོག་ཐོགས་བཞིན་མཁའ་རུ་ལྡིང་དུས.|རོ་དྲུག་གི་ཡ་གྱལ་ཏེ་དོམ་མཁྲིས་ལྟ་བུའི་རྫས་གང་ཁར་རེག་པའི་ཚེ་ཁ་ཡི་དྲི་སྦྱང་ཞིང་ཡི་ག་མེད་པར་གྱུར་པའི་བྲོ་བ་ཞིག.|ལ་ལ་གཉིད་ལོག་འགའ་ཞིག་བློ་རྩེ་གཅིག་གིས་སློབ་ལ་འབད།།.|뭐.'
+word_chars: u\0F00\u0F15-\u0F39\u0F3E-\u0FFF
