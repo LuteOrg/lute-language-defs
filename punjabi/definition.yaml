@@ -1,0 +1,33 @@
+name: Punjabi
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Punjabi
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.shabdkosh.com/search-dictionary?lc=pa&sl=en&tl=pa&e=###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=pa&tl=en&text=###&op=translate
+  active: true
+- for: terms
+  type: embedded
+  url: https://punjabipedia.org/topic.aspx?txt=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://dic.learnpunjabi.org/default.aspx?lute=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://dsal.uchicago.edu/cgi-bin/app/salah-ud-din_query.py?qs=###&searchhws=yes&matchtype=default
+  active: true
+show_romanization: true
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .،؛!؟.!?।॥۔
+split_sentence_exceptions: '[A-Z].|ਈ.|ਏ.|ਸ.|ਓ.|ਸੀ.|ਈ.ਪੂ.|ਏ.ਵੀ.|ਪੀ.|ਈ.ਓ.|ਆਈ.|ਡੀ.|ਵੀ.|ਏ.ਸੀ.|ਯੂ.|ਈ.ਟੀ.|ਐਸ.|ਮੀ.'
+word_chars: \u0A00-\u0A7F\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF
