@@ -1,0 +1,41 @@
+name: Georgian
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Georgian
+  active: true
+- for: terms
+  type: embedded
+  url: https://ka.wiktionary.org/wiki/####%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9A%E1%83%98
+  active: false
+- for: terms
+  type: embedded
+  url: https://en.glosbe.com/ka/en/###
+  active: false
+- for: terms
+  type: popup
+  url: https://tatoeba.org/en/sentences/search?from=kat&query=###&to=eng
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=247&T1=###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=ka&tl=en&text=###&op=translate&hl=en
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.yandex.com/?source_lang=ka&target_lang=en&text=###
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.bing.com/translator/?from=ka&to=en&text=###
+  active: false
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: გვ.|ვით.|თბ.|იხ.|მაგ.|მიც.|მოთ.|მოქ.|ნათ.|სახ.|ქ.|ძვ.|წმ.|წოდ.
+word_chars: \u10A0-\u10FF\u2D00-\u2D2F\u1C90-\u1CBF
