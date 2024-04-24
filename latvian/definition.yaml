@@ -1,0 +1,65 @@
+name: Latvian
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Latvian
+  active: true
+- for: terms
+  type: embedded
+  url: https://lv.wiktionary.org/wiki/###
+  active: false
+- for: terms
+  type: popup
+  url: https://en.glosbe.com/lv/en/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.linguee.com/english-latvian/search?source=latvian&query=###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.letonika.lv/groups/default.aspx?g=2&r=10621033&q=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://tezaurs.lv/###
+  active: false
+- for: terms
+  type: popup
+  url: https://tatoeba.org/en/sentences/search?from=lvs&query=###&to=eng
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=254&T1=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=1254&T1=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://cooljugator.com/lv/###
+  active: false
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#lv/en/###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=lv&tl=en&text=###&op=translate
+  active: false
+- for: sentences
+  type: popup
+  url: https://translate.yandex.com/?source_lang=lv&target_lang=en&text=###
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.bing.com/translator/?from=lv&to=en&text=###
+  active: false
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: E.|milj.|A.|u.c.|J.|I.|M.|K.|t.sk.|š.g.|t.i.|R.|V.|u.|tūkst.|u.tml.|G.|S.|t.s.|D.
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑ'
