@@ -1,0 +1,3 @@
+# title: De re pvblica - Cicero
+
+Nec vero habere virtutem satis est quasi artem aliquam nisi utare; etsi ars quidem cum ea non utare scientia tamen ipsa teneri potest, virtus in usu sui tota posita est; usus autem eius est maximus civitatis gubernatio, et earum ipsarum rerum quas isti in angulis personant, reapse non oratione perfectio. nihil enim dicitur a philosophis, quod quidem recte honesteque dicatur, quod <non> ab iis partum confirmatumque sit, a quibus civitatibus iura discripta sunt.
