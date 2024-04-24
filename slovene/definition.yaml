@@ -1,0 +1,57 @@
+name: Slovene
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/###
+  active: true
+- for: terms
+  type: embedded
+  url: https://sl.wiktionary.org/wiki/####Sloven%C5%A1%C4%8Dina
+  active: true
+- for: terms
+  type: popup
+  url: https://fran.si/iskanje?View=1&Query=###
+  active: false
+- for: terms
+  type: embedded
+  url: https://en.glosbe.com/sl/en/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.linguee.com/english-slovene/search?source=slovene&query=###
+  active: false
+- for: terms
+  type: popup
+  url: https://tr-ex.me/translation/slovenian-english/###?search=sloven%C5%A1%C4%8Dina
+  active: false
+- for: terms
+  type: popup
+  url: https://tatoeba.org/en/sentences/search?from=slv&query=###&to=eng
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=244&T1=###
+  active: true
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#sl/en/###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?hl=com&sl=sl&tl=en&text=###&op=translate
+  active: false
+- for: sentences
+  type: popup
+  url: https://translate.yandex.com/?source_lang=sl&target_lang=en&text=###
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.bing.com/translator/?from=sl&to=en&text=###
+  active: false
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: oz.|t.|i.|d.|prof.|npr.|v.|II.|t.i.|m.|P.|J.|o.|A.|doc.|g.|I.|B.|D.|itd.
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑ'
