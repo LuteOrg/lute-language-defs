@@ -1,0 +1,33 @@
+name: Croatian
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Serbo-Croatian
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.dict.com/croatian-english/###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=hr&tl=en&text=###&op=translate
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.crodict.com/en/nouns/croatian/###
+  active: true
+- for: terms
+  type: embedded
+  url: https://hjp.znanje.hr/index.php?show=search?lute=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.crodict.com/en/verbs/croatian/###
+  active: true
+show_romanization: true
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: tj.|pne.|tzv.|p.|I.|m.|npr.|st.|A.|M.|J.|g.|god.|S.|II.|V.|H.|P.|n.|C.
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑ
