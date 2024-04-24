@@ -1,0 +1,66 @@
+name: Lithuanian
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Lithuanian
+  active: true
+- for: terms
+  type: embedded
+  url: https://lt.wiktionary.org/wiki/###
+  active: false
+- for: terms
+  type: popup
+  url: https://en.glosbe.com/lt/en/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.linguee.com/english-lithuanian/search?source=lithuanian&query=###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.dict.com/Lithuanian-English/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.tekstovertimas.lt/zodynas/lietuviu-anglu/###
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.zodynas.lt/terminu-zodynas/paieska/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://tatoeba.org/en/sentences/search?from=lit&query=###&to=eng
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/lithuanian/###
+  active: true
+- for: terms
+  type: embedded
+  url: https://cooljugator.com/lt/###
+  active: false
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#lt/en/###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=lt&tl=en&text=###&op=translate
+  active: false
+- for: sentences
+  type: popup
+  url: https://translate.yandex.com/?source_lang=lt&target_lang=en&text=###
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.bing.com/translator/?from=lt&to=en&text=###
+  active: false
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: sav.|pvz.|proc.|m.|mnr.|Nr.|tūkst.|mln.|mlrd.|trln.|mėn.|mst.|m.|kt.|ir
+  t.t.|ir t. t.|gub.|d.|g.|aps.|apskr.|ež.|kuop.|pan.|par.|plg.|ppr.|
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳ'
