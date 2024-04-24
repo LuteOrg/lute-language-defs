@@ -1,0 +1,78 @@
+name: Ukrainian
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Ukrainian
+  active: true
+- for: terms
+  type: embedded
+  url: https://uk.wiktionary.org/wiki/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://cybermova.com/cgi-bin/oluaenpro.pl?Word=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://slovnyk.ua/index.php?swrd=###
+  active: false
+- for: terms
+  type: popup
+  url: https://en.glosbe.com/uk/en/###
+  active: false
+- for: terms
+  type: popup
+  url: https://dictionary.reverso.net/ukrainian-english/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://context.reverso.net/translation/ukrainian-english/###
+  active: false
+- for: terms
+  type: popup
+  url: https://tr-ex.me/translation/ukrainian-english/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://tatoeba.org/en/sentences/search?from=ukr&query=###&to=eng
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/ukrainian/###
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/ukrainian-nouns/###
+  active: false
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#uk/en/###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=uk&tl=en&text=###&op=translate
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.reverso.net/text-translation#sl=ukr&tl=eng&text=###
+  active: false
+- for: sentences
+  type: popup
+  url: https://www.online-translator.com/translation/ukrainian-english?text=###
+  active: false
+- for: sentences
+  type: popup
+  url: https://translate.yandex.com/?source_lang=uk&target_lang=en&text=###
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.bing.com/translator/?from=uk&to=en&text=###
+  active: false
+show_romanization: true
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: адм.|г.|год.|губ.|див.|ім.|кн.|обл.|од.|р-н.|с.|св.|ст.|т.
+  ін.|т. с.|та ін.|тел.|у т. ч.|
+word_chars: А-Яа-яA-Za-zЁёҐґІіЇїЄєЇ́ї́О́о́'
