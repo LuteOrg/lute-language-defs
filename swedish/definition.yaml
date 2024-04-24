@@ -1,0 +1,92 @@
+name: Swedish
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Swedish
+  active: true
+- for: terms
+  type: embedded
+  url: https://sv.wiktionary.org/wiki/####Svenska
+  active: false
+- for: terms
+  type: embedded
+  url: https://folkets-lexikon.csc.kth.se/folkets/#lookup&###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.saob.se/artikel/?seek=###
+  active: true
+- for: terms
+  type: popup
+  url: https://dictionary.cambridge.org/dictionary/swedish-english/###
+  active: false
+- for: terms
+  type: popup
+  url: https://en.glosbe.com/sv/en/###
+  active: false
+- for: terms
+  type: popup
+  url: https://en.bab.la/dictionary/swedish-english/###
+  active: false
+- for: terms
+  type: popup
+  url: https://dictionary.reverso.net/swedish-english/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://context.reverso.net/translation/swedish-english/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.linguee.com/english-swedish/search?source=swedish&query=###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.wordreference.com/sven/###
+  active: false
+- for: terms
+  type: popup
+  url: https://tr-ex.me/translation/swedish-english/svenska?search=###
+  active: false
+- for: terms
+  type: popup
+  url: https://tatoeba.org/en/sentences/search?from=swe&query=###&to=eng
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=19&T1=###
+  active: false
+- for: terms
+  type: embedded
+  url: https://cooljugator.com/sv/###
+  active: false
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#sv/en/###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?hl=com&sl=sv&tl=en&text=###&op=translate
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.reverso.net/text-translation#sl=swe&tl=eng&text=###
+  active: false
+- for: sentences
+  type: popup
+  url: https://translate.yandex.com/?source_lang=sv&target_lang=en&text=###
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.bing.com/translator/?from=sv&to=en&text=###
+  active: false
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: bildl.|bl.a.|d.|d.v.s.|d.y.|d.ä.|dets.|dr.|Dr.|dvs.|E.
+  N.|e.d.|e.dyl.|e.Kr.|e. Kr.|e.l.|e.likn.|e.m.|eg.|el.|el.dyl.|el.likn.|etc.|ev.|ex.|exkl.|f.|f.d.|f.Kr.|f.
+  Kr.|f.m.|f.n.|f.v.t.|fr.|fr.o.m.|förk.|g.s.|ibl.|inkl.|inst.|it.|jmf.|kl.|kungl.|m.fl.|m.m.|m.v.h.|N.N.|n.s.|o.d.|o.dyl.|o.l.|o.likn.|o.s.a.|o.s.v.|omkr.|osv.|p.g.a.|pers.|rdr.|rdr.
+  rgs.|resp.|rgs.|s.k.|s.ö.|särsk.|t.|t.ex.|t.h.|t.o.m.|t.v.|tim.|ung.|v.|vanl.|äfv.|äv.
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑ'
