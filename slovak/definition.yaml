@@ -1,0 +1,69 @@
+name: Slovak
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Slovak
+  active: true
+- for: terms
+  type: embedded
+  url: https://sk.wiktionary.org/wiki/####Sloven%C4%8Dina
+  active: false
+- for: terms
+  type: popup
+  url: https://slovnik.aktuality.sk/preklad/slovensko-anglicky/?q=###
+  active: false
+- for: terms
+  type: popup
+  url: https://webslovnik.zoznam.sk/slovensko-anglicky/?s=###
+  active: false
+- for: terms
+  type: popup
+  url: https://slovnik.juls.savba.sk/?w=###&s=exact&d=kssj4&d=psp&d=scs&d=sss&d=peciar&d=hssjV&d=obce&d=priezviska&ie=utf-8&oe=utf-8
+  active: true
+- for: terms
+  type: popup
+  url: https://en.glosbe.com/sk/en/###
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.linguee.com/english-slovak/search?source=slovak&query=###
+  active: false
+- for: terms
+  type: popup
+  url: https://tr-ex.me/translation/slovak-english/je+sloven%C4%8Dina?search=###
+  active: false
+- for: terms
+  type: popup
+  url: https://tatoeba.org/en/sentences/search?from=slk&query=###&to=eng
+  active: false
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=203&T1=###
+  active: true
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#sk/en/###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?hl=com&sl=sk&tl=en&text=###&op=translate
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.reverso.net/text-translation#sl=slo&tl=eng&text=###
+  active: false
+- for: sentences
+  type: popup
+  url: https://translate.yandex.com/?source_lang=sk&target_lang=en&text=###
+  active: false
+- for: sentences
+  type: embedded
+  url: https://www.bing.com/translator/?from=sk&to=en&text=###
+  active: false
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: M.|tzv.|h.|J.|K.|č.|s.|II.|R.|P.|A.|a.|I.|S.|hod.|mil.|r.|L.|resp.|B.
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑ'
