@@ -1,0 +1,33 @@
+name: Serbian
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Serbo-Croatian
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.dict.com/Serbian-English/###
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=sr&tl=en&text=###&op=translate
+  active: true
+- for: sentences
+  type: popup
+  url: https://www.bing.com/translator/?from=sr-Latn&to=en&text=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.vokabular.org/?lang=sr&search=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=200&T1=###
+  active: true
+show_romanization: true
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: н.|п.|е.|М.|p.|А.|С.|В.|Д.|Ј.|Б.|м.|m.|Р.|П.|ф.|г.|К.|Н.|Г.|в.д.|д.|в.|Ђ.|И.|д.о.о.|Љ.|Н.М.
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑ\u0400-\u04ff
