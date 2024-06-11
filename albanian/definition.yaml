@@ -25,5 +25,5 @@ right_to_left: false
 parser_type: spacedel
 character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
 split_sentences: .!?
-split_sentence_exceptions: d.m.th.|khs.|mb.|ndajf.|pj.|sh.|vj.|Mr.|Mrs.|Dr.|[A-Z].|Vd.|Vds.
+split_sentence_exceptions: '[A-Z].|etj.|të.|Nr.|në.|Dr.|p.sh.|dhe.|për.|me.|red.|p.e.s.|e.s.|d.m.th.'
 word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑ

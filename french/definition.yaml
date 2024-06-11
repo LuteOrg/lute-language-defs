@@ -1,16 +1,29 @@
 name: French
 dictionaries:
-  - for: terms
-    type: embedded
-    url: https://fr.thefreedictionary.com/###
-  - for: sentences
-    type: popup
-    url: https://www.deepl.com/translator#fr/en/###
-# show_romanization: 
-# right_to_left: 
-
-# parser_type: defaults to space delimited.
-# character_substitutions:
-# split_sentences: 
-# split_sentence_exceptions:
-# word_chars: 
+- for: terms
+  type: embedded
+  url: https://www.wordreference.com/fren/###
+  active: true
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####French
+  active: true
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#fr/en/###
+  active: true
+- for: terms
+  type: popup
+  url: https://www.larousse.fr/dictionnaires/francais/###
+  active: true
+- for: terms
+  type: popup
+  url: https://conjugator.reverso.net/conjugation-french-verb-###.html
+  active: true
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: '[A-Z].|etc.|sens.|fin.|St.|sûr.|sol.|nom.|point.|Dr.|bout.|dos.|haut.|pp.|vol.|av.'
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑ

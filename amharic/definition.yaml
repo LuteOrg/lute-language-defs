@@ -25,5 +25,5 @@ right_to_left: false
 parser_type: spacedel
 character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
 split_sentences: .!¡?።፧፠፨
-split_sentence_exceptions: ዓ.ም.|እ.ኤ.አ.|p.|ዓክልበ.|ግ.|እ.አ.አ.|ኪ.ሜ.|ክ.በ.|ም.|እ.ኤ.ኣ.|ዓ.ዓ.|ኤ.አ.|አ.|ኤ.|እ.|አ.አ.|ዓ.|ወዘተ.|አ.ም.|መ.
+split_sentence_exceptions: '[A-Z].|[\u1200-\u1359\u1369-\u137C].|ዓ.ም.|እ.ኤ.አ.|ዓክልበ.|እ.አ.አ.|ኪ.ሜ.|ክ.በ.|እ.ኤ.ኣ.|ዓ.ዓ.|ኤ.አ.|አ.አ.|ወዘተ.|አ.ም.|ምዕ.'
 word_chars: \u1200-\u1359\u1369-\u137C

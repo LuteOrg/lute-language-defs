@@ -1,19 +1,29 @@
 name: Turkish
 dictionaries:
-  - for: terms
-    type: embedded
-    url: https://www.wordreference.com/tren/###
-  - for: terms
-    type: embedded
-    url: https://tr.wiktionary.org/wiki/###
-  - for: sentences
-    type: popup
-    url: https://www.deepl.com/translator#tr/en/###
+- for: terms
+  type: embedded
+  url: https://tureng.com/tr/turkce-ingilizce/###
+  active: true
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Turkish
+  active: true
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#tr/en/###
+  active: true
+- for: terms
+  type: embedded
+  url: https://sozluk.gov.tr/?lute=###
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=31&T1=###
+  active: true
 show_romanization: true
-# right_to_left: 
-
+right_to_left: false
 parser_type: turkish
-# character_substitutions:
-# split_sentences: 
-# split_sentence_exceptions:
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: '[A-Z].|[À-Ö].|vb.|M.Ö.|Sh.|A.Ş.|T.C.|vs.|var.|Ş.|M.A.'
 word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑğĞıİöÖüÜşŞçÇ
