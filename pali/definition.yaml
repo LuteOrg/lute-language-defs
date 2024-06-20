@@ -1,0 +1,21 @@
+name: Pali
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://suttacentral.net/define/###?lang=en
+  active: true
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/####Pali
+  active: true
+- for: sentences
+  type: embedded
+  url: '###'
+  active: true
+show_romanization: true
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?;𑁈𑁇।॥
+split_sentence_exceptions: '[A-Z].|[\u0900-\u0963].|[\u0972-\u097F\].|[\U00011000-\U00011046].|bh.|dh.|sn.'
+word_chars: a-zA-Zāīūṃṇñṭḍṅḷṁ\u0900-\u0963\u0972-\u097F\U00011000-\U00011046
