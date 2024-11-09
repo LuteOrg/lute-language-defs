@@ -2,23 +2,23 @@ name: Nahuatl
 dictionaries:
 - for: terms
   type: embedded
-  url: https://gdn.iib.unam.mx/termino/search?queryCreiterio=###&queryPartePalabra=inicio&queryBuscarEn=nahuatlGrafiaNormalizada&queryLimiteRegistros=50
+  url: https://gdn.iib.unam.mx/termino/search?queryCreiterio=[LUTE]&queryPartePalabra=inicio&queryBuscarEn=nahuatlGrafiaNormalizada&queryLimiteRegistros=50
   active: true
 - for: terms
   type: popup
-  url: https://nahuatl.wired-humanities.org/advanced-search-headword?title_1_op=%3D&title_1=###&combine=&field_themes_tid=All
+  url: https://nahuatl.wired-humanities.org/advanced-search-headword?title_1_op=%3D&title_1=[LUTE]&combine=&field_themes_tid=All
   active: true
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/###
+  url: https://en.wiktionary.org/wiki/[LUTE]
   active: true
 - for: terms
   type: popup
-  url: https://tatoeba.org/en/sentences/search?from=nah&query=###&to=
+  url: https://tatoeba.org/en/sentences/search?from=nah&query=[LUTE]&to=
   active: true
 - for: sentences
   type: embedded
-  url: '###'
+  url: '[LUTE]'
   active: true
 show_romanization: true
 right_to_left: false

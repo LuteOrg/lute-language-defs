@@ -2,27 +2,27 @@ name: Serbian
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Serbo-Croatian
+  url: https://en.wiktionary.org/wiki/[LUTE]#Serbo-Croatian
   active: true
 - for: terms
   type: embedded
-  url: https://www.dict.com/Serbian-English/###
+  url: https://www.dict.com/Serbian-English/[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=sr&tl=en&text=###&op=translate
+  url: https://translate.google.com/?sl=sr&tl=en&text=[LUTE]&op=translate
   active: true
 - for: sentences
   type: popup
-  url: https://www.bing.com/translator/?from=sr-Latn&to=en&text=###
+  url: https://www.bing.com/translator/?from=sr-Latn&to=en&text=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.vokabular.org/?lang=sr&search=###
+  url: https://www.vokabular.org/?lang=sr&search=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=200&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=200&T1=[LUTE]
   active: true
 show_romanization: true
 right_to_left: false

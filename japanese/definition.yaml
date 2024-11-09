@@ -2,27 +2,27 @@ name: Japanese
 dictionaries:
 - for: terms
   type: embedded
-  url: https://jisho.org/search/###
+  url: https://jisho.org/search/[LUTE]
   active: true
 - for: terms
   type: popup
-  url: https://www.japandict.com/?s=###&lang=eng
+  url: https://www.japandict.com/?s=[LUTE]&lang=eng
   active: true
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Japanese
+  url: https://en.wiktionary.org/wiki/[LUTE]#Japanese
   active: true
 - for: sentences
   type: popup
-  url: https://www.deepl.com/translator#jp/en/###
+  url: https://www.deepl.com/translator#jp/en/[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.weblio.jp/content/###
+  url: https://www.weblio.jp/content/[LUTE]
   active: true
 - for: terms
   type: popup
-  url: https://conjugator.reverso.net/conjugation-japanese-verb-###.html
+  url: https://conjugator.reverso.net/conjugation-japanese-verb-[LUTE].html
   active: true
 show_romanization: true
 right_to_left: false

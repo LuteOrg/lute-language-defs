@@ -2,23 +2,23 @@ name: Greek
 dictionaries:
 - for: terms
   type: embedded
-  url: https://www.wordreference.com/gren/###
+  url: https://www.wordreference.com/gren/[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Greek
+  url: https://en.wiktionary.org/wiki/[LUTE]#Greek
   active: true
 - for: sentences
   type: popup
-  url: https://www.deepl.com/translator#el/en/###
+  url: https://www.deepl.com/translator#el/en/[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/search.html?sin=all&lq=###
+  url: https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/search.html?sin=all&lq=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://cooljugator.com/gr/###
+  url: https://cooljugator.com/gr/[LUTE]
   active: true
 show_romanization: true
 right_to_left: false

@@ -2,27 +2,27 @@ name: Croatian
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Serbo-Croatian
+  url: https://en.wiktionary.org/wiki/[LUTE]#Serbo-Croatian
   active: true
 - for: terms
   type: embedded
-  url: https://www.dict.com/croatian-english/###
+  url: https://www.dict.com/croatian-english/[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=hr&tl=en&text=###&op=translate
+  url: https://translate.google.com/?sl=hr&tl=en&text=[LUTE]&op=translate
   active: true
 - for: terms
   type: embedded
-  url: https://www.crodict.com/en/nouns/croatian/###
+  url: https://www.crodict.com/en/nouns/croatian/[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://hjp.znanje.hr/index.php?show=search?lute=###
+  url: https://hjp.znanje.hr/index.php?show=search
   active: true
 - for: terms
   type: embedded
-  url: https://www.crodict.com/en/verbs/croatian/###
+  url: https://www.crodict.com/en/verbs/croatian/[LUTE]
   active: true
 show_romanization: true
 right_to_left: false

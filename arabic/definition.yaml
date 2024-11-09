@@ -2,13 +2,13 @@ name: Arabic
 dictionaries:
   - for: terms
     type: embedded
-    url: https://www.arabicstudentsdictionary.com/search?q=###
+    url: https://www.arabicstudentsdictionary.com/search?q=[LUTE]
   - for: terms
     type: popup
-    url: https://translate.google.com/?hl=en&sl=ar&tl=en&text=###&op=translate
+    url: https://translate.google.com/?hl=en&sl=ar&tl=en&text=[LUTE]&op=translate
   - for: sentences
     type: popup
-    url: https://translate.google.com/?hl=en&sl=ar&tl=en&text=###
+    url: https://translate.google.com/?hl=en&sl=ar&tl=en&text=[LUTE]
 show_romanization: true
 right_to_left: true
 

@@ -2,75 +2,75 @@ name: Hebrew
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Hebrew
+  url: https://en.wiktionary.org/wiki/[LUTE]#Hebrew
   active: true
 - for: terms
   type: embedded
-  url: https://he.wiktionary.org/wiki/###
+  url: https://he.wiktionary.org/wiki/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://www.morfix.co.il/en/###
+  url: https://www.morfix.co.il/en/[LUTE]
   active: true
 - for: terms
   type: popup
-  url: https://www.pealim.com/search/?from-nav=1&q=###
+  url: https://www.pealim.com/search/?from-nav=1&q=[LUTE]
   active: true
 - for: terms
   type: popup
-  url: https://en.glosbe.com/he/en/###
+  url: https://en.glosbe.com/he/en/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://dictionary.reverso.net/hebrew-english/###
+  url: https://dictionary.reverso.net/hebrew-english/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://context.reverso.net/translation/hebrew-english/###
+  url: https://context.reverso.net/translation/hebrew-english/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://milog.co.il/###
+  url: https://milog.co.il/[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.dict.com/hebrew-english/###
+  url: https://www.dict.com/hebrew-english/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://tatoeba.org/en/sentences/search?from=heb&query=###&to=eng
+  url: https://tatoeba.org/en/sentences/search?from=heb&query=[LUTE]&to=eng
   active: false
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=210&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=210&T1=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://cooljugator.com/he/###
+  url: https://cooljugator.com/he/[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=iw&tl=en&text=###&op=translate
+  url: https://translate.google.com/?sl=iw&tl=en&text=[LUTE]&op=translate
   active: true
 - for: sentences
   type: popup
-  url: https://www.morfix.co.il/en/###
+  url: https://www.morfix.co.il/en/[LUTE]
   active: false
 - for: sentences
   type: embedded
-  url: https://www.reverso.net/text-translation#sl=heb&tl=eng&text=###
+  url: https://www.reverso.net/text-translation#sl=heb&tl=eng&text=[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://translate.yandex.com/?source_lang=he&target_lang=en&text=###
+  url: https://translate.yandex.com/?source_lang=he&target_lang=en&text=[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://www.online-translator.com/translation/hebrew-english?text=###
+  url: https://www.online-translator.com/translation/hebrew-english?text=[LUTE]
   active: false
 - for: sentences
   type: embedded
-  url: https://www.bing.com/translator/?from=he&to=en&text=###
+  url: https://www.bing.com/translator/?from=he&to=en&text=[LUTE]
   active: false
 show_romanization: true
 right_to_left: true

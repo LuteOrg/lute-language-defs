@@ -2,19 +2,19 @@ name: Hindi
 dictionaries:
 - for: terms
   type: embedded
-  url: https://www.boltidictionary.com/en/search?s=###
+  url: https://www.boltidictionary.com/en/search?s=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Hindi
+  url: https://en.wiktionary.org/wiki/[LUTE]#Hindi
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=hi&tl=en&text=###
+  url: https://translate.google.com/?sl=hi&tl=en&text=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://verbix.com/webverbix/go.php?&D1=47&T1=###
+  url: https://verbix.com/webverbix/go.php?&D1=47&T1=[LUTE]
   active: true
 show_romanization: true
 right_to_left: false

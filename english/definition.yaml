@@ -2,19 +2,19 @@ name: English
 dictionaries:
 - for: terms
   type: embedded
-  url: https://simple.wiktionary.org/wiki/###
+  url: https://simple.wiktionary.org/wiki/[LUTE]
   active: true
 - for: terms
   type: popup
-  url: https://www.collinsdictionary.com/dictionary/english/###
+  url: https://www.collinsdictionary.com/dictionary/english/[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: https://www.deepl.com/translator#en/en/###
+  url: https://www.deepl.com/translator#en/en/[LUTE]
   active: true
 - for: terms
   type: popup
-  url: https://conjugator.reverso.net/conjugation-english-verb-###.html
+  url: https://conjugator.reverso.net/conjugation-english-verb-[LUTE].html
   active: true
 show_romanization: false
 right_to_left: false

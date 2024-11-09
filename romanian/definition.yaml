@@ -2,95 +2,95 @@ name: Romanian
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Romanian
+  url: https://en.wiktionary.org/wiki/[LUTE]#Romanian
   active: true
 - for: terms
   type: embedded
-  url: https://ro.wiktionary.org/wiki/####rom%C3%A2n%C4%83
+  url: https://ro.wiktionary.org/wiki/[LUTE]#rom%C3%A2n%C4%83
   active: false
 - for: terms
   type: embedded
-  url: https://dexonline.ro/definitie/###
+  url: https://dexonline.ro/definitie/[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.archeus.ro/lingvistica/CautareDex?query=###
+  url: https://www.archeus.ro/lingvistica/CautareDex?query=[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://hallo.ro/english-romanian-dictionary/###
+  url: https://hallo.ro/english-romanian-dictionary/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.wordreference.com/roen/###
+  url: https://www.wordreference.com/roen/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://en.glosbe.com/ro/en/###
+  url: https://en.glosbe.com/ro/en/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://en.bab.la/dictionary/romanian-english/###
+  url: https://en.bab.la/dictionary/romanian-english/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://dictionary.reverso.net/romanian-english/###
+  url: https://dictionary.reverso.net/romanian-english/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://context.reverso.net/translation/romanian-english/###
+  url: https://context.reverso.net/translation/romanian-english/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.linguee.com/english-romanian/search?source=romanian&query=###
+  url: https://www.linguee.com/english-romanian/search?source=romanian&query=[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://tr-ex.me/translation/romanian-english/###
+  url: https://tr-ex.me/translation/romanian-english/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=5&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=5&T1=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=1005&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=1005&T1=[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=2005&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=2005&T1=[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://cooljugator.com/ro/###
+  url: https://cooljugator.com/ro/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.dict.com/?t=ro&set=_enro&w=###
+  url: https://www.dict.com/?t=ro&set=_enro&w=[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://tatoeba.org/en/sentences/search?from=ron&query=###&to=
+  url: https://tatoeba.org/en/sentences/search?from=ron&query=[LUTE]&to=
   active: false
 - for: sentences
   type: popup
-  url: https://www.deepl.com/translator#ro/en/###
+  url: https://www.deepl.com/translator#ro/en/[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=ro&tl=en&text=###&op=translate&hl=en
+  url: https://translate.google.com/?sl=ro&tl=en&text=[LUTE]&op=translate&hl=en
   active: false
 - for: sentences
   type: embedded
-  url: https://www.reverso.net/text-translation#sl=rum&tl=eng&text=###
+  url: https://www.reverso.net/text-translation#sl=rum&tl=eng&text=[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://translate.yandex.com/?source_lang=ro&target_lang=en&text=###
+  url: https://translate.yandex.com/?source_lang=ro&target_lang=en&text=[LUTE]
   active: false
 - for: sentences
   type: embedded
-  url: https://www.bing.com/translator/?from=ro&to=en&text=###
+  url: https://www.bing.com/translator/?from=ro&to=en&text=[LUTE]
   active: false
 show_romanization: false
 right_to_left: false

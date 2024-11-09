@@ -2,23 +2,23 @@ name: Macedonian
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Macedonian
+  url: https://en.wiktionary.org/wiki/[LUTE]#Macedonian
   active: true
 - for: terms
   type: embedded
-  url: https://recnik.off.net.mk/recnik/makedonski-angliski/###
+  url: https://recnik.off.net.mk/recnik/makedonski-angliski/[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=mk&tl=en&text=###&op=translate
+  url: https://translate.google.com/?sl=mk&tl=en&text=[LUTE]&op=translate
   active: true
 - for: terms
   type: popup
-  url: https://makedonski.gov.mk/corpus/s?q=###
+  url: https://makedonski.gov.mk/corpus/s?q=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://verbix.com/webverbix/go.php?&D1=9778&T1=###
+  url: https://verbix.com/webverbix/go.php?&D1=9778&T1=[LUTE]
   active: true
 show_romanization: true
 right_to_left: false

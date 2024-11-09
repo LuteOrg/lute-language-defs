@@ -2,23 +2,23 @@ name: Spanish
 dictionaries:
 - for: terms
   type: popup
-  url: https://www.spanishdict.com/translate/###
+  url: https://www.spanishdict.com/translate/[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Spanish
+  url: https://en.wiktionary.org/wiki/[LUTE]#Spanish
   active: true
 - for: sentences
   type: popup
-  url: https://www.deepl.com/translator#es/en/###
+  url: https://www.deepl.com/translator#es/en/[LUTE]
   active: true
 - for: terms
   type: popup
-  url: https://dle.rae.es/###?m=form
+  url: https://dle.rae.es/[LUTE]?m=form
   active: true
 - for: terms
   type: popup
-  url: https://conjugator.reverso.net/conjugation-spanish-verb-###.html
+  url: https://conjugator.reverso.net/conjugation-spanish-verb-[LUTE].html
   active: true
 show_romanization: false
 right_to_left: false

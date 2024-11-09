@@ -2,71 +2,71 @@ name: Ukrainian
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Ukrainian
+  url: https://en.wiktionary.org/wiki/[LUTE]#Ukrainian
   active: true
 - for: terms
   type: embedded
-  url: https://uk.wiktionary.org/wiki/###
+  url: https://uk.wiktionary.org/wiki/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://cybermova.com/cgi-bin/oluaenpro.pl?Word=###
+  url: https://cybermova.com/cgi-bin/oluaenpro.pl?Word=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://slovnyk.ua/index.php?swrd=###
+  url: https://slovnyk.ua/index.php?swrd=[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://en.glosbe.com/uk/en/###
+  url: https://en.glosbe.com/uk/en/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://dictionary.reverso.net/ukrainian-english/###
+  url: https://dictionary.reverso.net/ukrainian-english/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://context.reverso.net/translation/ukrainian-english/###
+  url: https://context.reverso.net/translation/ukrainian-english/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://tr-ex.me/translation/ukrainian-english/###
+  url: https://tr-ex.me/translation/ukrainian-english/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://tatoeba.org/en/sentences/search?from=ukr&query=###&to=eng
+  url: https://tatoeba.org/en/sentences/search?from=ukr&query=[LUTE]&to=eng
   active: false
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/ukrainian/###
+  url: https://www.verbix.com/webverbix/ukrainian/[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/ukrainian-nouns/###
+  url: https://www.verbix.com/webverbix/ukrainian-nouns/[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://www.deepl.com/translator#uk/en/###
+  url: https://www.deepl.com/translator#uk/en/[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=uk&tl=en&text=###&op=translate
+  url: https://translate.google.com/?sl=uk&tl=en&text=[LUTE]&op=translate
   active: false
 - for: sentences
   type: embedded
-  url: https://www.reverso.net/text-translation#sl=ukr&tl=eng&text=###
+  url: https://www.reverso.net/text-translation#sl=ukr&tl=eng&text=[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://www.online-translator.com/translation/ukrainian-english?text=###
+  url: https://www.online-translator.com/translation/ukrainian-english?text=[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://translate.yandex.com/?source_lang=uk&target_lang=en&text=###
+  url: https://translate.yandex.com/?source_lang=uk&target_lang=en&text=[LUTE]
   active: false
 - for: sentences
   type: embedded
-  url: https://www.bing.com/translator/?from=uk&to=en&text=###
+  url: https://www.bing.com/translator/?from=uk&to=en&text=[LUTE]
   active: false
 show_romanization: true
 right_to_left: false

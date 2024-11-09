@@ -2,27 +2,27 @@ name: Punjabi
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Punjabi
+  url: https://en.wiktionary.org/wiki/[LUTE]#Punjabi
   active: true
 - for: terms
   type: embedded
-  url: https://www.shabdkosh.com/search-dictionary?lc=pa&sl=en&tl=pa&e=###
+  url: https://www.shabdkosh.com/search-dictionary?lc=pa&sl=en&tl=pa&e=[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=pa&tl=en&text=###&op=translate
+  url: https://translate.google.com/?sl=pa&tl=en&text=[LUTE]&op=translate
   active: true
 - for: terms
   type: embedded
-  url: https://punjabipedia.org/topic.aspx?txt=###
+  url: https://punjabipedia.org/topic.aspx?txt=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://dic.learnpunjabi.org/default.aspx?lute=###
+  url: https://dic.learnpunjabi.org/default.aspx?lute=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://dsal.uchicago.edu/cgi-bin/app/salah-ud-din_query.py?qs=###&searchhws=yes&matchtype=default
+  url: https://dsal.uchicago.edu/cgi-bin/app/salah-ud-din_query.py?qs=[LUTE]&searchhws=yes&matchtype=default
   active: true
 show_romanization: true
 right_to_left: false

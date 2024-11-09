@@ -2,23 +2,23 @@ name: Bengali
 dictionaries:
 - for: terms
   type: embedded
-  url: https://www.shabdkosh.com/dictionary/english-bengali/###
+  url: https://www.shabdkosh.com/dictionary/english-bengali/[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Bengali
+  url: https://en.wiktionary.org/wiki/[LUTE]#Bengali
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=bn&tl=en&text=###&op=translate
+  url: https://translate.google.com/?sl=bn&tl=en&text=[LUTE]&op=translate
   active: true
 - for: terms
   type: embedded
-  url: https://bn.wiktionary.org/wiki/####%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE
+  url: https://bn.wiktionary.org/wiki/[LUTE]#%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE
   active: true
 - for: terms
   type: embedded
-  url: https://dsal.uchicago.edu/cgi-bin/app/bengali_query.py?qs=###&searchhws=yes&matchtype=default
+  url: https://dsal.uchicago.edu/cgi-bin/app/bengali_query.py?qs=[LUTE]&searchhws=yes&matchtype=default
   active: true
 show_romanization: true
 right_to_left: false

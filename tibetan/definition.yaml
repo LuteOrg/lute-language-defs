@@ -2,19 +2,19 @@ name: Tibetan
 dictionaries:
 - for: terms
   type: embedded
-  url: https://dictionary.christian-steinert.de/#%7B%22activeTerm%22%3A%22skad%22%2C%22lang%22%3A%22tib%22%2C%22inputLang%22%3A%22tib%22%2C%22currentListTerm%22%3A%22###%22%2C%22forceLeftSideVisible%22%3Afalse%2C%22offset%22%3A0%7D
+  url: https://dictionary.christian-steinert.de/#%7B%22activeTerm%22%3A%22skad%22%2C%22lang%22%3A%22tib%22%2C%22inputLang%22%3A%22tib%22%2C%22currentListTerm%22%3A%22[LUTE]%22%2C%22forceLeftSideVisible%22%3Afalse%2C%22offset%22%3A0%7D
   active: true
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Tibetan
+  url: https://en.wiktionary.org/wiki/[LUTE]#Tibetan
   active: true
 - for: terms
   type: embedded
-  url: https://rywiki.tsadra.org/index.php?search=###&title=Special%3ASearch&fulltext=1&ns0=1&ns250=1&ns252=1
+  url: https://rywiki.tsadra.org/index.php?search=[LUTE]&title=Special%3ASearch&fulltext=1&ns0=1&ns250=1&ns252=1
   active: true
 - for: sentences
   type: popup
-  url: https://www.bing.com/translator/?from=bo&to=en&text=###
+  url: https://www.bing.com/translator/?from=bo&to=en&text=[LUTE]
   active: true
 show_romanization: true
 right_to_left: false

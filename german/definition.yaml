@@ -2,23 +2,23 @@ name: German
 dictionaries:
 - for: terms
   type: embedded
-  url: https://www.dict.cc/?s=###
+  url: https://www.dict.cc/?s=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####German
+  url: https://en.wiktionary.org/wiki/[LUTE]#German
   active: true
 - for: sentences
   type: popup
-  url: https://www.deepl.com/translator#de/en/###
+  url: https://www.deepl.com/translator#de/en/[LUTE]
   active: true
 - for: terms
   type: popup
-  url: https://www.duden.de/suchen/dudenonline/###
+  url: https://www.duden.de/suchen/dudenonline/[LUTE]
   active: true
 - for: terms
   type: popup
-  url: https://conjugator.reverso.net/conjugation-german-verb-###.html
+  url: https://conjugator.reverso.net/conjugation-german-verb-[LUTE].html
   active: true
 show_romanization: false
 right_to_left: false

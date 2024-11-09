@@ -2,23 +2,23 @@ name: Turkish
 dictionaries:
 - for: terms
   type: embedded
-  url: https://tureng.com/tr/turkce-ingilizce/###
+  url: https://tureng.com/tr/turkce-ingilizce/[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Turkish
+  url: https://en.wiktionary.org/wiki/[LUTE]#Turkish
   active: true
 - for: sentences
   type: popup
-  url: https://www.deepl.com/translator#tr/en/###
+  url: https://www.deepl.com/translator#tr/en/[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://sozluk.gov.tr/?lute=###
+  url: https://sozluk.gov.tr/?lute=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=31&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=31&T1=[LUTE]
   active: true
 show_romanization: true
 right_to_left: false
