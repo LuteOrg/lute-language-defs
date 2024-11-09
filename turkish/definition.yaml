@@ -14,7 +14,7 @@ dictionaries:
   active: true
 - for: terms
   type: embedded
-  url: https://sozluk.gov.tr/?lute=[LUTE]
+  url: https://sozluk.gov.tr
   active: true
 - for: terms
   type: embedded

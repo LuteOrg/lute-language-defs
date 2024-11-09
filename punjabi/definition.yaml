@@ -18,7 +18,7 @@ dictionaries:
   active: true
 - for: terms
   type: embedded
-  url: https://dic.learnpunjabi.org/default.aspx?lute=[LUTE]
+  url: https://dic.learnpunjabi.org/default.aspx
   active: true
 - for: terms
   type: embedded

@@ -14,7 +14,7 @@ dictionaries:
   active: true
 - for: terms
   type: embedded
-  url: https://outils.biblissima.fr/fr/collatinus-web/?lute=[LUTE]
+  url: https://outils.biblissima.fr/fr/collatinus-web
   active: false
 - for: terms
   type: embedded

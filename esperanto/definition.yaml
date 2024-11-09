@@ -14,7 +14,7 @@ dictionaries:
   active: true
 - for: terms
   type: embedded
-  url: https://vortaro.net?lute=[LUTE]
+  url: https://vortaro.net
   active: true
 - for: terms
   type: embedded

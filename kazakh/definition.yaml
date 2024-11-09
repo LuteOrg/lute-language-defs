@@ -6,11 +6,11 @@ dictionaries:
   active: true
 - for: terms
   type: embedded
-  url: https://lugat.kz/?lute=[LUTE]
+  url: https://lugat.kz
   active: true
 - for: terms
   type: embedded
-  url: https://audaru.com/?lute=[LUTE]
+  url: https://audaru.com
   active: true
 - for: sentences
   type: popup
