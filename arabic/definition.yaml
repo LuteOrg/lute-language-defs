@@ -2,18 +2,33 @@ name: Arabic
 dictionaries:
   - for: terms
     type: embedded
+    url: https://en.wiktionary.org/w/index.php?search=[LUTE]#Arabic
+  - for: terms
+    type: embedded
+    url: https://context.reverso.net/translation/arabic-english/[LUTE]
+  - for: terms
+    type: popup
+    url: https://www.livingarabic.com/en/search?q=[LUTE]&dc[]=1&dc[]=8&dc[]=3&dc[]=2&dc[]=4&dc[]=6&dc[]=5&dc[]=10&dc[]=9&st[]=0&st[]=1&st[]=2
+  - for: terms
+    type: embedded
     url: https://www.arabicstudentsdictionary.com/search?q=[LUTE]
+  - for: terms
+    type: popup
+    url: https://www.deepl.com/translator#ar/en/[LUTE]
   - for: terms
     type: popup
     url: https://translate.google.com/?hl=en&sl=ar&tl=en&text=[LUTE]&op=translate
   - for: sentences
     type: popup
-    url: https://translate.google.com/?hl=en&sl=ar&tl=en&text=[LUTE]
+    url: https://www.deepl.com/translator#ar/en/[LUTE]
+  - for: sentences
+    type: popup
+    url : https://translate.google.com/?hl=en&sl=ar&tl=en&text=[LUTE]
 show_romanization: true
 right_to_left: true
 
 # parser_type: defaults to space delimited.
 # character_substitutions:
 split_sentences: .!?؟۔‎
-# split_sentence_exceptions:
-word_chars: \x{0600}-\x{06FF}\x{FE70}-\x{FEFC}
+split_sentence_exceptions: د.|م.|أ.|ع.|أ.د.|ح.|ب.|ج.|س.|ل.ل.|ش.|ن.|ف.|ل.|ي.|خ.|ر.|ا.|غ.|ك.
+word_chars: \x{0600}-\x{0608}\x{060B}\x{060E}-\x{061A}\x{061C}\x{0620}-\x{0669}\x{066E}-\x{06D3}\x{06D5}-\x{06FF}\x{FE70}-\x{FEFC}
