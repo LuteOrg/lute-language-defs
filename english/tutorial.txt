@@ -33,7 +33,7 @@ The ">" link moves to the next page as well, without setting the unknown terms t
 Note: both of these links also mark the page as "Read", which Lute uses when it searches for references to terms you create.  There's more on this in the tutorial follow-up, which you should read after this tutorial.
 
 5. Keyboard shortcuts
-The "hamburger menu" next to the Lute logo at the top right of the reading screen opens up a small menu of items, including a link to some keyboard shortcuts.  This section introduces a few of them.
+The "hamburger menu" next to the Lute logo at the top left of the reading screen opens up a small menu of items, including a link to some keyboard shortcuts.  This section introduces a few of them.
 
 5.1 Updating Status
 If you've worked through the tutorial, you'll have noted that words are underlined in blue when you move the mouse over them.  You can quickly change the status of the current word by hitting 1, 2, 3, 4, 5, w (for Well-Known), or i (for Ignore).  Try hovering over the following words and hit the status buttons: apple, banana, cranberry, donut.

@@ -2,67 +2,67 @@ name: Estonian
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Estonian
+  url: https://en.wiktionary.org/wiki/[LUTE]#Estonian
   active: true
 - for: terms
   type: embedded
-  url: https://et.wiktionary.org/wiki/###
+  url: https://et.wiktionary.org/wiki/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://en.glosbe.com/et/en/###
+  url: https://en.glosbe.com/et/en/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.dict.com/inglise-eesti/###
+  url: https://www.dict.com/inglise-eesti/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.eki.ee/dict/ies/index.cgi?Q=###&F=M&C06=en
+  url: https://www.eki.ee/dict/ies/index.cgi?Q=[LUTE]&F=M&C06=en
   active: false
 - for: terms
   type: embedded
-  url: https://aare.pri.ee/dictionary.html?query=###&lang=ee&meth=part
+  url: https://aare.pri.ee/dictionary.html?query=[LUTE]&lang=ee&meth=part
   active: false
 - for: terms
   type: embedded
-  url: https://www.eki.ee/dict/ekss/index.cgi?Q=###&F=M
+  url: https://www.eki.ee/dict/ekss/index.cgi?Q=[LUTE]&F=M
   active: false
 - for: terms
   type: embedded
-  url: https://www.linguee.com/english-estonian/search?source=estonian&query=###
+  url: https://www.linguee.com/english-estonian/search?source=estonian&query=[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://tatoeba.org/en/sentences/search?from=est&query=###&to=eng
+  url: https://tatoeba.org/en/sentences/search?from=est&query=[LUTE]&to=eng
   active: false
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=4178&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=4178&T1=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://cooljugator.com/ee/###
+  url: https://cooljugator.com/ee/[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://www.deepl.com/translator#et/en/###
+  url: https://www.deepl.com/translator#et/en/[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=et&tl=en&text=###&op=translate&hl=en
+  url: https://translate.google.com/?sl=et&tl=en&text=[LUTE]&op=translate&hl=en
   active: false
 - for: sentences
   type: popup
-  url: https://translate.yandex.com/?source_lang=et&target_lang=en&text=###
+  url: https://translate.yandex.com/?source_lang=et&target_lang=en&text=[LUTE]
   active: false
 - for: sentences
   type: embedded
-  url: https://www.bing.com/translator/?from=et&to=en&text=###
+  url: https://www.bing.com/translator/?from=et&to=en&text=[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://www.online-translator.com/translation/estonian-english?text=###
+  url: https://www.online-translator.com/translation/estonian-english?text=[LUTE]
   active: false
 show_romanization: false
 right_to_left: false

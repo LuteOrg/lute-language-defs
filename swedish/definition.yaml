@@ -2,83 +2,83 @@ name: Swedish
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Swedish
+  url: https://en.wiktionary.org/wiki/[LUTE]#Swedish
   active: true
 - for: terms
   type: embedded
-  url: https://sv.wiktionary.org/wiki/####Svenska
+  url: https://sv.wiktionary.org/wiki/[LUTE]#Svenska
   active: false
 - for: terms
   type: embedded
-  url: https://folkets-lexikon.csc.kth.se/folkets/#lookup&###
+  url: https://folkets-lexikon.csc.kth.se/folkets/#lookup&[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.saob.se/artikel/?seek=###
+  url: https://www.saob.se/artikel/?seek=[LUTE]
   active: true
 - for: terms
   type: popup
-  url: https://dictionary.cambridge.org/dictionary/swedish-english/###
+  url: https://dictionary.cambridge.org/dictionary/swedish-english/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://en.glosbe.com/sv/en/###
+  url: https://en.glosbe.com/sv/en/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://en.bab.la/dictionary/swedish-english/###
+  url: https://en.bab.la/dictionary/swedish-english/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://dictionary.reverso.net/swedish-english/###
+  url: https://dictionary.reverso.net/swedish-english/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://context.reverso.net/translation/swedish-english/###
+  url: https://context.reverso.net/translation/swedish-english/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.linguee.com/english-swedish/search?source=swedish&query=###
+  url: https://www.linguee.com/english-swedish/search?source=swedish&query=[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.wordreference.com/sven/###
+  url: https://www.wordreference.com/sven/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://tr-ex.me/translation/swedish-english/svenska?search=###
+  url: https://tr-ex.me/translation/swedish-english/svenska?search=[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://tatoeba.org/en/sentences/search?from=swe&query=###&to=eng
+  url: https://tatoeba.org/en/sentences/search?from=swe&query=[LUTE]&to=eng
   active: false
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=19&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=19&T1=[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://cooljugator.com/sv/###
+  url: https://cooljugator.com/sv/[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://www.deepl.com/translator#sv/en/###
+  url: https://www.deepl.com/translator#sv/en/[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?hl=com&sl=sv&tl=en&text=###&op=translate
+  url: https://translate.google.com/?hl=com&sl=sv&tl=en&text=[LUTE]&op=translate
   active: false
 - for: sentences
   type: embedded
-  url: https://www.reverso.net/text-translation#sl=swe&tl=eng&text=###
+  url: https://www.reverso.net/text-translation#sl=swe&tl=eng&text=[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://translate.yandex.com/?source_lang=sv&target_lang=en&text=###
+  url: https://translate.yandex.com/?source_lang=sv&target_lang=en&text=[LUTE]
   active: false
 - for: sentences
   type: embedded
-  url: https://www.bing.com/translator/?from=sv&to=en&text=###
+  url: https://www.bing.com/translator/?from=sv&to=en&text=[LUTE]
   active: false
 show_romanization: false
 right_to_left: false

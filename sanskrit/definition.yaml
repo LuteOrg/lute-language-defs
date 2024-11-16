@@ -1,14 +1,25 @@
 name: Sanskrit
 dictionaries:
-  - for: terms
-    type: embedded
-    url: https://dsal.uchicago.edu/cgi-bin/app/sanskrit_query.py?qs=###&searchhws=yes&matchtype=default
-  - for: terms
-    type: embedded
-    url: https://www.learnsanskrit.cc/translate?search=###&dir=se
-  - for: sentences
-    type: popup
-    url: https://translate.google.com/?hl=en&sl=sa&tl=en&text=###&op=translate
+- for: terms
+  type: embedded
+  url: https://www.learnsanskrit.cc/translate?search=[LUTE]&dir=se
+  active: true
+- for: terms
+  type: embedded
+  url: https://dsal.uchicago.edu/cgi-bin/app/sanskrit_query.py?qs=[LUTE]&searchhws=yes&matchtype=default
+  active: true
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/[LUTE]#Sanskrit
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?hl=en&sl=sa&tl=en&text=[LUTE]&op=translate
+  active: true
 show_romanization: true
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
 split_sentences: .?!।॥
-word_chars: a-zA-Z\u0900-\u0963\u0966-\u097F
+split_sentence_exceptions: '[\u0900-\u0963].|[\u0966-\u097F].|[A-Z].|श.|ई.|स.|अ.|ए.|उ.|च.कि.मी.|मी.|ई.पू.|इ.|p.|ऐ.|ओ.|च.|आ.|ड.|वा.'
+word_chars: a-zA-Zāīūṣḥṃṛṭṇḍṝḹḻśṅñ\u0900-\u0963\u0966-\u097F

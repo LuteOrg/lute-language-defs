@@ -2,35 +2,35 @@ name: Georgian
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Georgian
+  url: https://en.wiktionary.org/wiki/[LUTE]#Georgian
   active: true
 - for: terms
   type: embedded
-  url: https://ka.wiktionary.org/wiki/####%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9A%E1%83%98
+  url: https://ka.wiktionary.org/wiki/[LUTE]#%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9A%E1%83%98
   active: false
 - for: terms
   type: embedded
-  url: https://en.glosbe.com/ka/en/###
+  url: https://en.glosbe.com/ka/en/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://tatoeba.org/en/sentences/search?from=kat&query=###&to=eng
+  url: https://tatoeba.org/en/sentences/search?from=kat&query=[LUTE]&to=eng
   active: false
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=247&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=247&T1=[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=ka&tl=en&text=###&op=translate&hl=en
+  url: https://translate.google.com/?sl=ka&tl=en&text=[LUTE]&op=translate&hl=en
   active: true
 - for: sentences
   type: popup
-  url: https://translate.yandex.com/?source_lang=ka&target_lang=en&text=###
+  url: https://translate.yandex.com/?source_lang=ka&target_lang=en&text=[LUTE]
   active: false
 - for: sentences
   type: embedded
-  url: https://www.bing.com/translator/?from=ka&to=en&text=###
+  url: https://www.bing.com/translator/?from=ka&to=en&text=[LUTE]
   active: false
 show_romanization: false
 right_to_left: false

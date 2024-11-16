@@ -2,71 +2,71 @@ name: Latin
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Latin
+  url: https://en.wiktionary.org/wiki/[LUTE]#Latin
   active: true
 - for: terms
   type: embedded
-  url: https://la.wiktionary.org/wiki/####Latine
+  url: https://la.wiktionary.org/wiki/[LUTE]#Latine
   active: false
 - for: terms
   type: embedded
-  url: https://www.perseus.tufts.edu/hopper/resolveform?type=start&lookup=###&lang=la
+  url: https://www.perseus.tufts.edu/hopper/resolveform?type=start&lookup=[LUTE]&lang=la
   active: true
 - for: terms
   type: embedded
-  url: https://outils.biblissima.fr/fr/collatinus-web/?lute=###
+  url: https://outils.biblissima.fr/fr/collatinus-web
   active: false
 - for: terms
   type: embedded
-  url: https://www.online-latin-dictionary.com/latin-english-dictionary.php?parola=###
+  url: https://www.online-latin-dictionary.com/latin-english-dictionary.php?parola=[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.latin-dictionary.net/search/latin/###
+  url: https://www.latin-dictionary.net/search/latin/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://lsj.gr/index.php?search=###&title=Special:Search&profile=default&fulltext=1&searchToken=2zmd022o9guhvxm2h7w8fkkqz
+  url: https://lsj.gr/index.php?search=[LUTE]&title=Special:Search&profile=default&fulltext=1&searchToken=2zmd022o9guhvxm2h7w8fkkqz
   active: false
 - for: terms
   type: embedded
-  url: https://logeion.uchicago.edu/###
-  active: false
-- for: terms
-  type: popup
-  url: https://en.glosbe.com/la/en/###
+  url: https://logeion.uchicago.edu/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://tr-ex.me/translation/latin-english/rex?search=###
+  url: https://en.glosbe.com/la/en/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://tatoeba.org/en/sentences/search?from=lat&query=###&to=eng
+  url: https://tr-ex.me/translation/latin-english/rex?search=[LUTE]
+  active: false
+- for: terms
+  type: popup
+  url: https://tatoeba.org/en/sentences/search?from=lat&query=[LUTE]&to=eng
   active: false
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=9&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=9&T1=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=1009&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=1009&T1=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=2009&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=2009&T1=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://cooljugator.com/etymology/lat/###
+  url: https://cooljugator.com/etymology/lat/[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=la&tl=en&text=###&op=translate
+  url: https://translate.google.com/?sl=la&tl=en&text=[LUTE]&op=translate
   active: true
 - for: sentences
   type: popup
-  url: https://translate.yandex.com/?source_lang=la&target_lang=en&text=###
+  url: https://translate.yandex.com/?source_lang=la&target_lang=en&text=[LUTE]
   active: false
 show_romanization: false
 right_to_left: false

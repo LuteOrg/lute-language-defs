@@ -2,31 +2,31 @@ name: Belarusian
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Belarusian
+  url: https://en.wiktionary.org/wiki/[LUTE]#Belarusian
   active: true
 - for: terms
   type: embedded
-  url: https://be.wiktionary.org/wiki/###
+  url: https://be.wiktionary.org/wiki/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://en.glosbe.com/be/en/###
+  url: https://en.glosbe.com/be/en/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://tatoeba.org/en/sentences/search?from=bel&query=###&to=
+  url: https://tatoeba.org/en/sentences/search?from=bel&query=[LUTE]&to=
   active: false
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=248&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=248&T1=[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=be&tl=en&text=###&op=translate
+  url: https://translate.google.com/?sl=be&tl=en&text=[LUTE]&op=translate
   active: true
 - for: sentences
   type: popup
-  url: https://translate.yandex.com/?source_lang=be&target_lang=en&text=###
+  url: https://translate.yandex.com/?source_lang=be&target_lang=en&text=[LUTE]
   active: false
 show_romanization: false
 right_to_left: false

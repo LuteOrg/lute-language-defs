@@ -2,23 +2,23 @@ name: Vietnamese
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Vietnamese
+  url: https://en.wiktionary.org/wiki/[LUTE]#Vietnamese
   active: true
 - for: terms
   type: embedded
-  url: https://vdict.com/###,2,0,0,html
+  url: https://vdict.com/[LUTE],2,0,0,html
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=vi&tl=en&text=###&op=translate
+  url: https://translate.google.com/?sl=vi&tl=en&text=[LUTE]&op=translate
   active: true
 - for: terms
   type: embedded
-  url: https://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-V/###.html
+  url: https://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-V/[LUTE].html
   active: true
 - for: terms
   type: embedded
-  url: https://cooljugator.com/vi/###
+  url: https://cooljugator.com/vi/[LUTE]
   active: true
 show_romanization: true
 right_to_left: false

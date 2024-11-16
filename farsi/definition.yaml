@@ -2,27 +2,27 @@ name: Farsi
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Persian
+  url: https://en.wiktionary.org/wiki/[LUTE]#Persian
   active: true
 - for: terms
   type: embedded
-  url: https://www.farsidictionary.net/index.php?q=###
+  url: https://www.farsidictionary.net/index.php?q=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://dsal.uchicago.edu/cgi-bin/app/persian_query.py?qs=###&searchhws=yes&matchtype=default
+  url: https://dsal.uchicago.edu/cgi-bin/app/persian_query.py?qs=[LUTE]&searchhws=yes&matchtype=default
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=fa&tl=en&text=###&op=translate
+  url: https://translate.google.com/?sl=fa&tl=en&text=[LUTE]&op=translate
   active: true
 - for: terms
   type: popup
-  url: https://vajehyab.com/?q=###
+  url: https://vajehyab.com/?q=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=209&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=209&T1=[LUTE]
   active: true
 show_romanization: true
 right_to_left: true

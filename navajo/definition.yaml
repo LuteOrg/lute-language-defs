@@ -1,0 +1,25 @@
+name: Navajo
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/[LUTE]#Navajo
+  active: true
+- for: terms
+  type: popup
+  url: https://glosbe.com/nv/en/[LUTE]
+  active: true
+- for: terms
+  type: popup
+  url: https://tatoeba.org/en/sentences/search?from=nav&query=[LUTE]to=
+  active: true
+- for: sentences
+  type: embedded
+  url: '[LUTE]'
+  active: true
+show_romanization: true
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: '[A-Z].|U.S.|N.N.C.|Apr.|B.I.A.|C.N.|D.W.'
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳáąą́éęę́íįį́óǫǫ́ʼ

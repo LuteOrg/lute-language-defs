@@ -2,22 +2,28 @@ name: Arabic
 dictionaries:
   - for: terms
     type: embedded
-    url: https://en.wiktionary.org/w/index.php?search=####Arabic
+    url: https://en.wiktionary.org/w/index.php?search=[LUTE]#Arabic
   - for: terms
     type: embedded
-    url: https://context.reverso.net/translation/arabic-english/###
+    url: https://context.reverso.net/translation/arabic-english/[LUTE]
   - for: terms
     type: popup
-    url: https://www.livingarabic.com/en/search?q=###&dc[]=1&dc[]=8&dc[]=3&dc[]=2&dc[]=4&dc[]=6&dc[]=5&dc[]=10&dc[]=9&st[]=0&st[]=1&st[]=2
+    url: https://www.livingarabic.com/en/search?q=[LUTE]&dc[]=1&dc[]=8&dc[]=3&dc[]=2&dc[]=4&dc[]=6&dc[]=5&dc[]=10&dc[]=9&st[]=0&st[]=1&st[]=2
   - for: terms
     type: embedded
-    url: https://www.arabicstudentsdictionary.com/search?q=###
+    url: https://www.arabicstudentsdictionary.com/search?q=[LUTE]
   - for: terms
     type: popup
-    url: https://translate.google.com/?hl=en&sl=ar&tl=en&text=###&op=translate
+    url: https://www.deepl.com/translator#ar/en/[LUTE]
+  - for: terms
+    type: popup
+    url: https://translate.google.com/?hl=en&sl=ar&tl=en&text=[LUTE]&op=translate
   - for: sentences
     type: popup
-    url: https://translate.google.com/?hl=en&sl=ar&tl=en&text=###
+    url: https://www.deepl.com/translator#ar/en/[LUTE]
+  - for: sentences
+    type: popup
+    url : https://translate.google.com/?hl=en&sl=ar&tl=en&text=[LUTE]
 show_romanization: true
 right_to_left: true
 

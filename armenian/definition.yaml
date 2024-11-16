@@ -2,48 +2,32 @@ name: Armenian
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Armenian
+  url: https://en.wiktionary.org/wiki/[LUTE]#Armenian
   active: true
 - for: terms
   type: embedded
-  url: https://hy.wiktionary.org/wiki/###
-  active: false
-- for: terms
-  type: popup
-  url: https://tatoeba.org/en/sentences/search?from=hye&query=###&to=
-  active: false
-- for: terms
-  type: embedded
-  url: http://www.nayiri.com/search?l=en&dt=HY_EN&r=0&query=###
+  url: http://www.nayiri.com/search?l=en&dt=HY_EN&r=0&query=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: http://www.nayiri.com/search?dt=HY_HY&r=0&l=en&query=###
-  active: true
-- for: terms
-  type: embedded
-  url: https://calfa.fr/search?query=###
-  active: false
-- for: terms
-  type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=135&T1=###
+  url: https://calfa.fr/search?query=[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=hy&tl=en&text=###&op=translate
+  url: https://translate.google.com/?sl=hy&tl=en&text=[LUTE]&op=translate
   active: true
-- for: sentences
-  type: popup
-  url: https://translate.yandex.com/?source_lang=hy&target_lang=en&text=###
-  active: false
-- for: sentences
+- for: terms
   type: embedded
-  url: https://www.bing.com/translator/?from=hy&to=en&text=###
-  active: false
+  url: http://www.nayiri.com/search?dt=HY_HY&r=0&l=en&query=[LUTE]
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.verbix.com/webverbix/go.php?&D1=135&T1=[LUTE]
+  active: true
 show_romanization: false
 right_to_left: false
 parser_type: spacedel
 character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
 split_sentences: ։՜՛՞
-split_sentence_exceptions: արլ.|արմ.|բն.|բրբ.|գլխ.|դ.|դդ.|հզ.|հզվդ.|հնց.|հս.|հվ.|մ.թ.|մ.թ.ա.|մլն.|մլրդ.|պ-ն|պատմ.|տ-ն
+split_sentence_exceptions: '[A-Z]|[\u0531-\u0556\u0561-\u0588].|մ.թ.ա.|դր.|Հ.Գ.|Ն.Ս.Օ.Տ.Տ.|ս.թ.|Ս.թ.|են.|համար.|մասին.|հետ.'
 word_chars: \u0531-\u0556\u0561-\u0588

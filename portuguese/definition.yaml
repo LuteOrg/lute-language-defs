@@ -2,119 +2,119 @@ name: Portuguese
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Portuguese
+  url: https://en.wiktionary.org/wiki/[LUTE]#Portuguese
   active: true
 - for: terms
   type: embedded
-  url: https://pt.wiktionary.org/wiki/###
+  url: https://pt.wiktionary.org/wiki/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://michaelis.uol.com.br/moderno-ingles/busca/portugues-ingles-moderno/###/
+  url: https://michaelis.uol.com.br/moderno-ingles/busca/portugues-ingles-moderno/[LUTE]/
   active: true
 - for: terms
   type: embedded
-  url: https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/###/
+  url: https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/[LUTE]/
   active: true
 - for: terms
   type: popup
-  url: https://www.infopedia.pt/dicionarios/portugues-ingles/###
+  url: https://www.infopedia.pt/dicionarios/portugues-ingles/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://www.infopedia.pt/dicionarios/lingua-portuguesa/###
+  url: https://www.infopedia.pt/dicionarios/lingua-portuguesa/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://dicionario.priberam.org/###
+  url: https://dicionario.priberam.org/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.dicio.com.br/###/
+  url: https://www.dicio.com.br/[LUTE]/
   active: false
 - for: terms
   type: popup
-  url: https://dictionary.cambridge.org/dictionary/portuguese-english/###
+  url: https://dictionary.cambridge.org/dictionary/portuguese-english/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.wordreference.com/pten/###
+  url: https://www.wordreference.com/pten/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://en.glosbe.com/pt/en/###
+  url: https://en.glosbe.com/pt/en/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://en.bab.la/dictionary/portuguese-english/###
+  url: https://en.bab.la/dictionary/portuguese-english/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://tr-ex.me/translation/portuguese-english/carro?search=###
+  url: https://tr-ex.me/translation/portuguese-english/carro?search=[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://dictionary.reverso.net/portuguese-english/###
+  url: https://dictionary.reverso.net/portuguese-english/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://context.reverso.net/translation/portuguese-english/###
+  url: https://context.reverso.net/translation/portuguese-english/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.linguee.com/english-portuguese/search?source=portuguese&query=###
+  url: https://www.linguee.com/english-portuguese/search?source=portuguese&query=[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://en.pons.com/translate/portuguese-english/###
+  url: https://en.pons.com/translate/portuguese-english/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://tatoeba.org/en/sentences/search?from=por&query=###&to=eng
+  url: https://tatoeba.org/en/sentences/search?from=por&query=[LUTE]&to=eng
   active: false
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=2&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=2&T1=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=1002&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=1002&T1=[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=2002&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=2002&T1=[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://cooljugator.com/pt/###
+  url: https://cooljugator.com/pt/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://www.infopedia.pt/dicionarios/verbos-portugueses/###?intlink=cr_verbos-pt
+  url: https://www.infopedia.pt/dicionarios/verbos-portugueses/[LUTE]?intlink=cr_verbos-pt
   active: false
 - for: sentences
   type: popup
-  url: https://www.deepl.com/translator#pt/en/###
+  url: https://www.deepl.com/translator#pt/en/[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?hl=com&sl=pt&tl=en&text=###&op=translate
+  url: https://translate.google.com/?hl=com&sl=pt&tl=en&text=[LUTE]&op=translate
   active: false
 - for: sentences
   type: embedded
-  url: https://www.reverso.net/text-translation#sl=por&tl=eng&text=###
+  url: https://www.reverso.net/text-translation#sl=por&tl=eng&text=[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://translate.yandex.com/?source_lang=pt&target_lang=en&text=###
+  url: https://translate.yandex.com/?source_lang=pt&target_lang=en&text=[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://www.online-translator.com/translation/portuguese-english/###
+  url: https://www.online-translator.com/translation/portuguese-english/[LUTE]
   active: false
 - for: sentences
   type: embedded
-  url: https://www.bing.com/translator/?from=pt&to=en&text=###
+  url: https://www.bing.com/translator/?from=pt&to=en&text=[LUTE]
   active: false
 show_romanization: false
 right_to_left: false

@@ -2,55 +2,55 @@ name: Galician
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Galician
+  url: https://en.wiktionary.org/wiki/[LUTE]#Galician
   active: true
 - for: terms
   type: embedded
-  url: https://gl.wiktionary.org/wiki/####Galego
+  url: https://gl.wiktionary.org/wiki/[LUTE]#Galego
   active: false
 - for: terms
   type: popup
-  url: https://en.glosbe.com/gl/en/###
+  url: https://en.glosbe.com/gl/en/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://academia.gal/dicionario/-/termo/###
+  url: https://academia.gal/dicionario/-/termo/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://portaldaspalabras.gal/dicionario/procura/###
+  url: https://portaldaspalabras.gal/dicionario/procura/[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://estraviz.org/###
+  url: https://estraviz.org/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://tatoeba.org/en/sentences/search?from=glg&query=###&to=eng
+  url: https://tatoeba.org/en/sentences/search?from=glg&query=[LUTE]&to=eng
   active: false
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=6&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=6&T1=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=1006&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=1006&T1=[LUTE]
   active: false
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=2006&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=2006&T1=[LUTE]
   active: false
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=gl&tl=en&text=###&op=translate
+  url: https://translate.google.com/?sl=gl&tl=en&text=[LUTE]&op=translate
   active: true
 - for: sentences
   type: popup
-  url: https://translate.yandex.com/?source_lang=gl&target_lang=en&text=###
+  url: https://translate.yandex.com/?source_lang=gl&target_lang=en&text=[LUTE]
   active: false
 - for: sentences
   type: embedded
-  url: https://www.bing.com/translator/?from=gl&to=en&text=###
+  url: https://www.bing.com/translator/?from=gl&to=en&text=[LUTE]
   active: false
 show_romanization: false
 right_to_left: false

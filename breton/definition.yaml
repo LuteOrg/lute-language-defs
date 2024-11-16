@@ -2,39 +2,39 @@ name: Breton
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Breton
+  url: https://en.wiktionary.org/wiki/[LUTE]#Breton
   active: true
 - for: terms
   type: embedded
-  url: https://br.wiktionary.org/wiki/####Brezhoneg
+  url: https://br.wiktionary.org/wiki/[LUTE]#Brezhoneg
   active: false
 - for: terms
   type: embedded
-  url: https://geriafurch.bzh/br/brfr/###
+  url: https://geriafurch.bzh/br/brfr/[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: http://www.devri.bzh/recherche/?q=###
+  url: http://www.devri.bzh/recherche/?q=[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://fr.glosbe.com/br/fr/###
+  url: https://fr.glosbe.com/br/fr/[LUTE]
   active: false
 - for: terms
   type: popup
-  url: https://niverel.brezhoneg.bzh/fr/meurgorf/?page=1&term=###&search_type=me
+  url: https://niverel.brezhoneg.bzh/fr/meurgorf/?page=1&term=[LUTE]&search_type=me
   active: false
 - for: terms
   type: popup
-  url: https://tatoeba.org/en/sentences/search?from=bre&query=###&to=eng
+  url: https://tatoeba.org/en/sentences/search?from=bre&query=[LUTE]&to=eng
   active: false
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=130&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=130&T1=[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: example/###
+  url: example/[LUTE]
   active: true
 show_romanization: false
 right_to_left: false

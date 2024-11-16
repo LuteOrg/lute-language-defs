@@ -2,23 +2,23 @@ name: Esperanto
 dictionaries:
 - for: terms
   type: embedded
-  url: https://en.wiktionary.org/wiki/####Esperanto
+  url: https://en.wiktionary.org/wiki/[LUTE]#Esperanto
   active: true
 - for: terms
   type: embedded
-  url: https://eneo.dict.cc/?s=###
+  url: https://eneo.dict.cc/?s=[LUTE]
   active: true
 - for: sentences
   type: popup
-  url: https://translate.google.com/?sl=eo&tl=en&text=###&op=translate
+  url: https://translate.google.com/?sl=eo&tl=en&text=[LUTE]&op=translate
   active: true
 - for: terms
   type: embedded
-  url: https://vortaro.net?lute=###
+  url: https://vortaro.net
   active: true
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=4092&T1=###
+  url: https://www.verbix.com/webverbix/go.php?&D1=4092&T1=[LUTE]
   active: true
 show_romanization: true
 right_to_left: false

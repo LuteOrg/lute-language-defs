@@ -1,19 +1,29 @@
 name: Russian
 dictionaries:
-  - for: terms
-    type: embedded
-    url: https://www.dict.com/Russian-English/###
-  - for: terms
-    type: embedded
-    url: https://en.openrussian.org/?search=###
-  - for: sentences
-    type: popup
-    url: https://www.deepl.com/translator#ru/en/###
-# show_romanization: 
-# right_to_left: 
-
-# parser_type: defaults to space delimited.
-# character_substitutions:
-# split_sentences: 
-# split_sentence_exceptions:
-word_chars: А-Яа-яЁё 
+- for: terms
+  type: embedded
+  url: https://en.openrussian.org/?search=[LUTE]
+  active: true
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/[LUTE]#Russian
+  active: true
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#ru/en/[LUTE]
+  active: true
+- for: terms
+  type: embedded
+  url: https://gramota.ru/poisk?query=[LUTE]&mode=all
+  active: true
+- for: terms
+  type: popup
+  url: https://conjugator.reverso.net/conjugation-russian-verb-[LUTE].html
+  active: true
+show_romanization: true
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: '[A-Z].|[А-Я].|тыс.|млн.|руб.|ул.|млрд.|год.|им.|ст.|т.д.|гг.|др.|кв.|т.е.|ред.|все.|прим.|нас.|грн.'
+word_chars: А-Яа-яЁё

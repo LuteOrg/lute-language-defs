@@ -1,19 +1,33 @@
 name: Japanese
 dictionaries:
-  - for: terms
-    type: embedded
-    url: https://jisho.org/search/###
-  - for: sentences
-    type: popup
-    url: https://www.deepl.com/translator#jp/en/###
+- for: terms
+  type: embedded
+  url: https://jisho.org/search/[LUTE]
+  active: true
+- for: terms
+  type: popup
+  url: https://www.japandict.com/?s=[LUTE]&lang=eng
+  active: true
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/[LUTE]#Japanese
+  active: true
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#jp/en/[LUTE]
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.weblio.jp/content/[LUTE]
+  active: true
+- for: terms
+  type: popup
+  url: https://conjugator.reverso.net/conjugation-japanese-verb-[LUTE].html
+  active: true
 show_romanization: true
-# right_to_left: 
-
+right_to_left: false
 parser_type: japanese
-# character_substitutions:
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
 split_sentences: .!?。？！
-# split_sentence_exceptions:
-
-# Ref https://stackoverflow.com/questions/5797505/php-regex-expression-involving-japanese
-# This shouldn't ever be used due to use of MeCab (parser_type).
+split_sentence_exceptions: ..|→.|、.|...|「.|〜.|○○○.|『.|』.|㌶.|.....|‐.|℡.|①.|②.|③.|・・・
 word_chars: \p{Han}\p{Katakana}\p{Hiragana}
