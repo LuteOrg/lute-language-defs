@@ -6,6 +6,7 @@ from glob import glob
 import os
 import yaml
 
+
 def get_table_rows():
     "Get markdown table for docs."
     thisdir = os.path.dirname(__file__)
@@ -16,12 +17,7 @@ def get_table_rows():
             y = yaml.safe_load(f)
             langname = y["name"]
             for d in y["dictionaries"]:
-                data = [
-                    langname,
-                    d["for"],
-                    d["type"],
-                    f"`{d['url']}`"
-                ]
+                data = [langname, d["for"], d["type"], f"`{d['url']}`"]
                 output.append("|" + "|".join(data) + "|")
     output.sort()
     return output
