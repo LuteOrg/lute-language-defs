@@ -14,11 +14,15 @@ dictionaries:
   active: true
 - for: terms
   type: embedded
-  url: https://sozluk.gov.tr
+  url: https://sozluk.gov.tr/?ara=[LUTE]
   active: true
 - for: terms
   type: embedded
-  url: https://www.verbix.com/webverbix/go.php?&D1=31&T1=[LUTE]
+  url: https://lugatim.com/s/[LUTE]
+  active: true
+- for: terms
+  type: embedded
+  url: https://www.nisanyansozluk.com/kelime/[LUTE]
   active: true
 show_romanization: true
 right_to_left: false
