@@ -37,7 +37,7 @@ dictionaries:
   url: https://dictionary.cambridge.org/dictionary/portuguese-english/[LUTE]
   active: false
 - for: terms
-  type: embedded
+  type: popup
   url: https://www.wordreference.com/pten/[LUTE]
   active: false
 - for: terms

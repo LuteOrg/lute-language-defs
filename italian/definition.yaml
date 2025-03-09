@@ -17,7 +17,7 @@ dictionaries:
   url: https://www.larousse.fr/dictionnaires/italien-anglais/[LUTE]
   active: false
 - for: terms
-  type: embedded
+  type: popup
   url: http://www.wordreference.com/iten/[LUTE]
   active: false
 - for: terms

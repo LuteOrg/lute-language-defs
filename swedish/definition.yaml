@@ -41,7 +41,7 @@ dictionaries:
   url: https://www.linguee.com/english-swedish/search?source=swedish&query=[LUTE]
   active: false
 - for: terms
-  type: embedded
+  type: popup
   url: https://www.wordreference.com/sven/[LUTE]
   active: false
 - for: terms

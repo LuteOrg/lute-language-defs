@@ -1,7 +1,7 @@
 name: French
 dictionaries:
 - for: terms
-  type: embedded
+  type: popup
   url: https://www.wordreference.com/fren/[LUTE]
   active: true
 - for: terms

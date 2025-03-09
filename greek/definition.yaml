@@ -1,7 +1,7 @@
 name: Greek
 dictionaries:
 - for: terms
-  type: embedded
+  type: popup
   url: https://www.wordreference.com/gren/[LUTE]
   active: true
 - for: terms

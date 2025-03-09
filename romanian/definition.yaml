@@ -21,7 +21,7 @@ dictionaries:
   url: https://hallo.ro/english-romanian-dictionary/[LUTE]
   active: false
 - for: terms
-  type: embedded
+  type: popup
   url: https://www.wordreference.com/roen/[LUTE]
   active: false
 - for: terms
