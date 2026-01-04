@@ -20,6 +20,10 @@ dictionaries:
   type: popup
   url: https://conjugator.reverso.net/conjugation-spanish-verb-[LUTE].html
   active: true
+- for: terms
+  type: embedded
+  url: https://es-en.dict.cc/?s=[LUTE]
+  active: true
 show_romanization: false
 right_to_left: false
 parser_type: spacedel
