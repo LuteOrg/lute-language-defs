@@ -92,6 +92,10 @@ dictionaries:
   type: embedded
   url: https://www.bing.com/translator/?from=ro&to=en&text=[LUTE]
   active: false
+- for: terms
+  type: popup
+  url : https://www.wordreference.com/enro/[LUTE]
+  active: true
 show_romanization: false
 right_to_left: false
 parser_type: spacedel

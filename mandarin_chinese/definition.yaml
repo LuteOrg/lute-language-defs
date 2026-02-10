@@ -6,6 +6,10 @@ dictionaries:
   - for: sentences
     type: popup
     url: https://www.deepl.com/translator#ch/en/[LUTE]
+  - for: terms
+    type: popup
+    url : https://www.wordreference.com/enzh/[LUTE]
+    active: true
 show_romanization: true
 # right_to_left:
 
