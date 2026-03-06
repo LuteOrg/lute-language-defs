@@ -7,6 +7,12 @@ dictionaries:
 - for: terms
   type: embedded
   url: https://be.wiktionary.org/wiki/[LUTE]
+- for: terms
+  type: embedded
+  url: https://verbum.by/?q=[LUTE]
+- for: terms
+  type: embedded
+  url: https://slounik.org/search?dict=&search=[LUTE]
   active: false
 - for: terms
   type: popup
