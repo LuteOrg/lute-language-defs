@@ -34,4 +34,4 @@ parser_type: spacedel
 character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
 split_sentences: .!?
 split_sentence_exceptions: гл.|ст.|пач.|т.л.|г.д.|г.|тыс.
-word_chars: A-Za-zА-Яа-яІіЎўҐґ'
+word_chars: A-Za-zА-Яа-яІіЁёЎўҐґ'
