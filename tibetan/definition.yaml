@@ -2,7 +2,7 @@ name: Tibetan
 dictionaries:
 - for: terms
   type: embedded
-  url: https://dictionary.christian-steinert.de/#%7B%22activeTerm%22%3A%22skad%22%2C%22lang%22%3A%22tib%22%2C%22inputLang%22%3A%22tib%22%2C%22currentListTerm%22%3A%22[LUTE]%22%2C%22forceLeftSideVisible%22%3Afalse%2C%22offset%22%3A0%7D
+  url: https://dictionary.christian-steinert.de/#/search/tib/?activeTerm=[LUTE]
   active: true
 - for: terms
   type: popup
