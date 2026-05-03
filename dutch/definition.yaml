@@ -13,8 +13,8 @@ dictionaries:
   url: https://www.deepl.com/translator#nl/en/[LUTE]
   active: true
 - for: terms
-  type: popup
-  url: https://www.vandale.nl/gratis-woordenboek/nederlands/betekenis/[LUTE]
+  type: embedded
+  url: https://nl-en.dict.cc/?s=[LUTE]
   active: true
 - for: terms
   type: embedded
