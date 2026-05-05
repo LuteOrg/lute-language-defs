@@ -1,0 +1,21 @@
+name: Cebuano
+dictionaries:
+  - for: terms
+    type: popup
+    url: https://www.binisaya.com/node/21?search=binisaya&word=[LUTE]&Search=Search
+    active: true
+  - for: terms
+    type: embedded
+    url: https://cebuano.pinoydictionary.com/search?q=[LUTE]
+    active: true
+  - for: terms
+    type: embedded
+    url: https://en.wiktionary.org/wiki/[LUTE]#Cebuano
+    active: true
+  - for: sentences
+    type: popup
+    url: https://translate.google.com/?sl=ceb&tl=en&text=[LUTE]&op=translate
+    active: true
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentence_exceptions: Mr.|Mrs.|Dr.|[A-Z].|Vd.|Vds.
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑ-
