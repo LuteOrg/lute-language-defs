@@ -39,7 +39,7 @@ dictionaries:
 - for: terms
   type: popup
   url: https://www.wordreference.com/pten/[LUTE]
-  active: false
+  active: true
 - for: terms
   type: popup
   url: https://en.glosbe.com/pt/en/[LUTE]
@@ -116,10 +116,6 @@ dictionaries:
   type: embedded
   url: https://www.bing.com/translator/?from=pt&to=en&text=[LUTE]
   active: false
-- for: terms
-  type: popup
-  url : https://www.wordreference.com/enpt/[LUTE]
-  active: true
 show_romanization: false
 right_to_left: false
 parser_type: spacedel
