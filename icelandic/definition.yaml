@@ -42,7 +42,7 @@ dictionaries:
   active: false
 - for: terms
   type: popup
-  url : https://www.wordreference.com/enis/[LUTE]
+  url : https://www.wordreference.com/isen/[LUTE]
   active: true
 show_romanization: false
 right_to_left: false

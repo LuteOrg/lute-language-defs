@@ -8,7 +8,7 @@ dictionaries:
     url: https://www.deepl.com/translator#ch/en/[LUTE]
   - for: terms
     type: popup
-    url : https://www.wordreference.com/enzh/[LUTE]
+    url : https://www.wordreference.com/zhen/[LUTE]
     active: true
 show_romanization: true
 # right_to_left:

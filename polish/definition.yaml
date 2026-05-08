@@ -94,7 +94,7 @@ dictionaries:
   active: false
 - for: terms
   type: popup
-  url : https://www.wordreference.com/enpl/[LUTE]
+  url : https://www.wordreference.com/plen/[LUTE]
   active: true
 show_romanization: false
 right_to_left: false

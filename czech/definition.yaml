@@ -11,7 +11,7 @@ dictionaries:
     url: https://www.deepl.com/translator#cs/en/[LUTE]
   - for: terms
     type: popup
-    url : https://www.wordreference.com/encz/[LUTE]
+    url : https://www.wordreference.com/czen/[LUTE]
     active: true
 show_romanization: true
 word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑ

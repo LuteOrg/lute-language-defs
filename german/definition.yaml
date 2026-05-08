@@ -22,7 +22,7 @@ dictionaries:
   active: true
 - for: terms
   type: popup
-  url : https://www.wordreference.com/ende/[LUTE]
+  url : https://www.wordreference.com/deen/[LUTE]
   active: true
 show_romanization: false
 right_to_left: false
