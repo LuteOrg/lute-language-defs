@@ -46,5 +46,4 @@ parser_type: spacedel
 character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
 split_sentences: .!?
 split_sentence_exceptions: d.|el.|f.|fl.|flt.|fn.|form.|før.|hk.|kk.|kvk.|m.a.|Matt.|mðr.|o.o.|o.m.a.|o.s.fr.|pf.|s.s.|sbrt.|t.|t.d.|uml.|v.|viðv.|v.f.
-  gr.|óp.|skst.|so.|st.|tsk.|þ.e.|þf.|þgf.|þús.
 word_chars: a-zA-ZÁáÐðÉéÍíÓóÚúÝýÆæØø'
