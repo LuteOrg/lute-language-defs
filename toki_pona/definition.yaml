@@ -1,0 +1,21 @@
+name: Toki Pona
+dictionaries:
+  - for: terms
+    type: embedded
+    url: https://linku.la/?q=[LUTE]
+    active: true
+  - for: terms
+    type: embedded
+    url: https://nimi.li/[LUTE]
+    active: true
+  - for: sentences
+    type: popup
+    url: https://huggingface.co/spaces/Jayyydyyy/english-tokipona-translator
+    active: true
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?·
+split_sentence_exceptions: Mr.|Mrs.|Dr.|[A-Z].|Vd.|Vds.
+word_chars: a-zA-ZÀ-ÖØ-öø-ȳáéíóúÁÉÍÓÚñÑ
