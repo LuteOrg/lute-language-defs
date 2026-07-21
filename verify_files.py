@@ -11,6 +11,7 @@ import unittest
 import re
 from glob import glob
 import os
+from urllib.parse import urlparse
 import yaml
 
 
@@ -45,6 +46,30 @@ class TestVerifyFiles(unittest.TestCase):
             title = t.group(1).strip()
             self.assertTrue(title != "", f"{filename} missing title")
 
+    def test_story_files_may_contain_source_url_and_must_be_a_url(self):
+        "May have # source_url: and it must be an actual url."
+
+        def _is_valid_url(url):
+            try:
+                result = urlparse(url)
+                return all([result.scheme, result.netloc])
+            except ValueError:
+                return False
+
+        thisdir = os.path.dirname(__file__)
+        storyglob = os.path.join(thisdir, "**", "*.txt")
+        example_story_glob = f"{storyglob}.example"
+        for filename in (glob(storyglob) + glob(example_story_glob)):
+            print(filename)
+            with open(filename, "r", encoding="utf-8") as f:
+                content = f.read()
+            resrc = r"source_url:\s*(.*)\n"
+            srcline = re.search(resrc, content)
+            if srcline is not None:
+                src = srcline.group(1).strip()
+                if src != "":
+                    msg = f"invalid source_url {src} in file {filename}"
+                    self.assertTrue(_is_valid_url(src), msg)
 
 if __name__ == "__main__":
     unittest.main()
