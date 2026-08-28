@@ -1,0 +1,25 @@
+name: Scottish Gaelic
+dictionaries:
+- for: terms
+  type: embedded
+  url: https://www.faclair.com/?txtSearch=[LUTE]
+  active: true
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/[LUTE]#Scottish_Gaelic
+  active: true
+- for: terms
+  type: embedded
+  url: https://learngaelic.scot/dictionary/index.jsp?abairt=[LUTE]&slang=both&wholeword=false
+  active: true
+- for: sentences
+  type: popup
+  url: https://translate.google.com/?sl=gd&tl=en&text=[LUTE]&op=translate
+  active: true
+show_romanization: false
+right_to_left: false
+parser_type: spacedel
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?
+split_sentence_exceptions: B-Mh.|Bh-mh.|B-ph.|Bh-ph.|B-uas.|Bh-uas.|Dr.|Dhr.|Mgh.|Mhgh.|M-uas.|Oll.|t-Oll.|Urr.|t-Urr.
+word_chars: a-zA-ZàèìòùÀÈÌÒÙáéíóúÁÉÍÓÚ'-
