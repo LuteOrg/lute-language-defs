@@ -1,0 +1,29 @@
+name: Korean
+dictionaries:
+- for: terms
+  type: popup
+  url: https://dict.naver.com/dict.search?query=[LUTE]
+  active: true
+- for: terms
+  type: embedded
+  url: https://en.wiktionary.org/wiki/[LUTE]#Korean
+  active: true
+- for: sentences
+  type: popup
+  url: https://www.deepl.com/translator#ko/en/[LUTE]
+  active: true
+- for: terms
+  type: embedded
+  url: https://endic.dict.naver.com/search.nhn?sLn=ko&searchOption=all&query=[LUTE]
+  active: true
+- for: terms
+  type: popup
+  url: https://ko.dict.naver.com/dict.search?query=[LUTE]
+  active: true
+show_romanization: false
+right_to_left: false
+parser_type: lute_korean
+character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
+split_sentences: .!?。？！
+split_sentence_exceptions: ..|→.|...|「.|」.|『.|』.|㈜.|etc.|e.g.|i.e.
+word_chars: a-zA-Z0-9\uAC00-\uD7A3\u1100-\u11FF\u3130-\u318F
